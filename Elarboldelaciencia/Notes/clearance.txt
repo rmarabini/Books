@@ -1,0 +1,13 @@
+Request ID	63954
+Status	Cleared OK
+Main rule applied	OK: Rule 1
+Clearance OK key	20170906112824baroja	(click to upload finished eBook)
+Title	El arbol de la ciencia
+Language code	es
+Author 1 (first, last, role)	Pío	Baroja	Creator
+Date submitted	11:28 06 Sep 2017
+Date updated	05:23 06 Sep 2017
+Publisher name	Rafael Caro Raggio
+Publisher city, country	S.S. Reyes	ES
+Publication notes	1) only one page have publication dates<br>2) abebooks record -> https://www.abebooks.com/servlet/SearchResults?sts=t&an=pio+baroja&tn=el+arbol+de+la+ciencia&kn=1918&isbn=<br>3) file2 is a translation of title page<br>
+Year	1918	Type	No copyright notice (just publication date)

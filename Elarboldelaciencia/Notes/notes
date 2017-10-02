@@ -1,0 +1,43 @@
+
+copyright
+ 243, 246
+need new scan
+103, 104, 105, 129 (page numbers no file number)
+pages missing 13-17
+
+raw pristom
+ra2 virginia
+
+MERGE,. base priston
+
+start page 5
+
+Copy a few pages from vitginia to priston:
+roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>rm Merge/00[1-4].png
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/013.png Merge/007.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/024.png Merge/018.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/025.png Merge/019.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/028.png Merge/022.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/029.png Merge/023.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/030.png Merge/024.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/039.png Merge/033.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/047.png Merge/041.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/049.png Merge/043.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/057.png Merge/051.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/058.png Merge/052.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/059.png Merge/053.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/060.png Merge/054.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/061.png Merge/055.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/063.png Merge/057.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/109.png Merge/103.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/116.png Merge/110.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/133.png Merge/127.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/214.png Merge/208.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/215.png Merge/209.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/216.png Merge/210.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/223.png Merge/217.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/224.png Merge/218.png 
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>mv Merge/243.png Merge/a.png
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>mv Merge/244.png Merge/b.png
+[roberto@linux-bxmv~/dp/Book/Elarboldelaciencia]>cp virginia/251.png Merge/247.png 
+
