@@ -1,0 +1,2103 @@
+%::pagenumbers = (
+ 'Pg001' => {'offset' => '1.0', 'label' => '', 'style' => 'Arabic', 'action' => 'No Count', 'base' => '001'},
+ 'Pg002' => {'offset' => '23.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg003' => {'offset' => '32.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg004' => {'offset' => '43.56', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg005' => {'offset' => '43.56', 'label' => 'Pg 9', 'style' => '"', 'action' => 'Start @', 'base' => '009'},
+ 'Pg006' => {'offset' => '77.49', 'label' => 'Pg 10', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg007' => {'offset' => '118.16', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg008' => {'offset' => '156.49', 'label' => 'Pg 12', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg009' => {'offset' => '192.45', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg010' => {'offset' => '230.51', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg011' => {'offset' => '264.44', 'label' => 'Pg 15', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg012' => {'offset' => '280.42', 'label' => 'Pg 16', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg013' => {'offset' => '313.20', 'label' => 'Pg 17', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg014' => {'offset' => '348.41', 'label' => 'Pg 18', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg015' => {'offset' => '383.47', 'label' => 'Pg 19', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg016' => {'offset' => '421.31', 'label' => 'Pg 20', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg017' => {'offset' => '442.44', 'label' => 'Pg 21', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg018' => {'offset' => '475.45', 'label' => 'Pg 22', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg019' => {'offset' => '511.37', 'label' => 'Pg 23', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg020' => {'offset' => '548.45', 'label' => 'Pg 24', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg021' => {'offset' => '565.46', 'label' => 'Pg 25', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg022' => {'offset' => '597.46', 'label' => 'Pg 26', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg023' => {'offset' => '633.45', 'label' => 'Pg 27', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg024' => {'offset' => '668.48', 'label' => 'Pg 28', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg025' => {'offset' => '697.28', 'label' => 'Pg 29', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg026' => {'offset' => '732.39', 'label' => 'Pg 30', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg027' => {'offset' => '767.14', 'label' => 'Pg 31', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg028' => {'offset' => '804.51', 'label' => 'Pg 32', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg029' => {'offset' => '838.41', 'label' => 'Pg 33', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg030' => {'offset' => '871.43', 'label' => 'Pg 34', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg031' => {'offset' => '912.33', 'label' => 'Pg 35', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg032' => {'offset' => '946.48', 'label' => 'Pg 36', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg033' => {'offset' => '983.43', 'label' => 'Pg 37', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg034' => {'offset' => '1017.50', 'label' => 'Pg 38', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg035' => {'offset' => '1052.45', 'label' => 'Pg 39', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg036' => {'offset' => '1086.12', 'label' => 'Pg 40', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg037' => {'offset' => '1121.48', 'label' => 'Pg 41', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg038' => {'offset' => '1156.43', 'label' => 'Pg 42', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg039' => {'offset' => '1190.46', 'label' => 'Pg 43', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg040' => {'offset' => '1223.41', 'label' => 'Pg 44', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg041' => {'offset' => '1259.27', 'label' => 'Pg 45', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg042' => {'offset' => '1275.23', 'label' => 'Pg 46', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg043' => {'offset' => '1307.45', 'label' => 'Pg 47', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg044' => {'offset' => '1340.10', 'label' => 'Pg 48', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg045' => {'offset' => '1375.49', 'label' => 'Pg 49', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg046' => {'offset' => '1407.9', 'label' => 'Pg 50', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg047' => {'offset' => '1443.42', 'label' => 'Pg 51', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg048' => {'offset' => '1476.46', 'label' => 'Pg 52', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg049' => {'offset' => '1511.45', 'label' => 'Pg 53', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg050' => {'offset' => '1520.7', 'label' => 'Pg 54', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg051' => {'offset' => '1552.50', 'label' => 'Pg 55', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg052' => {'offset' => '1586.42', 'label' => 'Pg 56', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg053' => {'offset' => '1622.35', 'label' => 'Pg 57', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg054' => {'offset' => '1657.42', 'label' => 'Pg 58', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg055' => {'offset' => '1690.44', 'label' => 'Pg 59', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg056' => {'offset' => '1725.47', 'label' => 'Pg 60', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg057' => {'offset' => '1743.18', 'label' => 'Pg 61', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg058' => {'offset' => '1779.28', 'label' => 'Pg 62', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg059' => {'offset' => '1815.39', 'label' => 'Pg 63', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg060' => {'offset' => '1851.16', 'label' => 'Pg 64', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg061' => {'offset' => '1886.13', 'label' => 'Pg 65', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg062' => {'offset' => '1924.48', 'label' => 'Pg 66', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg063' => {'offset' => '1968.43', 'label' => 'Pg 67', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg064' => {'offset' => '2003.42', 'label' => 'Pg 68', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg065' => {'offset' => '2019.26', 'label' => 'Pg 69', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg066' => {'offset' => '2052.45', 'label' => 'Pg 70', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg067' => {'offset' => '2087.43', 'label' => 'Pg 71', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg068' => {'offset' => '2121.35', 'label' => 'Pg 72', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg069' => {'offset' => '2159.9', 'label' => 'Pg 73', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg070' => {'offset' => '2197.47', 'label' => 'Pg 74', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg071' => {'offset' => '2222.9', 'label' => 'Pg 75', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg072' => {'offset' => '2259.45', 'label' => 'Pg 76', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg073' => {'offset' => '2294.49', 'label' => 'Pg 77', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg074' => {'offset' => '2328.48', 'label' => 'Pg 78', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg075' => {'offset' => '2365.42', 'label' => 'Pg 79', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg076' => {'offset' => '2401.50', 'label' => 'Pg 80', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg077' => {'offset' => '2435.46', 'label' => 'Pg 81', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg078' => {'offset' => '2474.45', 'label' => 'Pg 82', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg079' => {'offset' => '2510.48', 'label' => 'Pg 83', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg080' => {'offset' => '2517.31', 'label' => 'Pg 84', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg081' => {'offset' => '2517.31', 'label' => 'Pg 85', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg082' => {'offset' => '2552.12', 'label' => 'Pg 86', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg083' => {'offset' => '2594.22', 'label' => 'Pg 87', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg084' => {'offset' => '2632.46', 'label' => 'Pg 88', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg085' => {'offset' => '2666.41', 'label' => 'Pg 89', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg086' => {'offset' => '2688.14', 'label' => 'Pg 90', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg087' => {'offset' => '2727.30', 'label' => 'Pg 91', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg088' => {'offset' => '2761.34', 'label' => 'Pg 92', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg089' => {'offset' => '2799.37', 'label' => 'Pg 93', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg090' => {'offset' => '2836.34', 'label' => 'Pg 94', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg091' => {'offset' => '2883.25', 'label' => 'Pg 95', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg092' => {'offset' => '2926.78', 'label' => 'Pg 96', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg093' => {'offset' => '2957.42', 'label' => 'Pg 97', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg094' => {'offset' => '2996.48', 'label' => 'Pg 98', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg095' => {'offset' => '3031.48', 'label' => 'Pg 99', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg096' => {'offset' => '3070.46', 'label' => 'Pg 100', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg097' => {'offset' => '3106.45', 'label' => 'Pg 101', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg098' => {'offset' => '3144.46', 'label' => 'Pg 102', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg099' => {'offset' => '3179.50', 'label' => 'Pg 103', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg100' => {'offset' => '3213.6', 'label' => 'Pg 104', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg101' => {'offset' => '3248.4', 'label' => 'Pg 105', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg102' => {'offset' => '3287.42', 'label' => 'Pg 106', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg103' => {'offset' => '3329.6', 'label' => 'Pg 107', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg104' => {'offset' => '3365.46', 'label' => 'Pg 108', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg105' => {'offset' => '3405.32', 'label' => 'Pg 109', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg106' => {'offset' => '3439.32', 'label' => 'Pg 110', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg107' => {'offset' => '3480.45', 'label' => 'Pg 111', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg108' => {'offset' => '3520.40', 'label' => 'Pg 112', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg109' => {'offset' => '3551.44', 'label' => 'Pg 113', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg110' => {'offset' => '3586.42', 'label' => 'Pg 114', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg111' => {'offset' => '3621.43', 'label' => 'Pg 115', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg112' => {'offset' => '3659.45', 'label' => 'Pg 116', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg113' => {'offset' => '3697.43', 'label' => 'Pg 117', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg114' => {'offset' => '3742.46', 'label' => 'Pg 118', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg115' => {'offset' => '3754.24', 'label' => 'Pg 119', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg116' => {'offset' => '3787.42', 'label' => 'Pg 120', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg117' => {'offset' => '3823.42', 'label' => 'Pg 121', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg118' => {'offset' => '3857.46', 'label' => 'Pg 122', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg119' => {'offset' => '3891.47', 'label' => 'Pg 123', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg120' => {'offset' => '3899.27', 'label' => 'Pg 124', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg121' => {'offset' => '3932.45', 'label' => 'Pg 125', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg122' => {'offset' => '3964.46', 'label' => 'Pg 126', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg123' => {'offset' => '3999.49', 'label' => 'Pg 127', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg124' => {'offset' => '4038.40', 'label' => 'Pg 128', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg125' => {'offset' => '4072.47', 'label' => 'Pg 129', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg126' => {'offset' => '4106.48', 'label' => 'Pg 130', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg127' => {'offset' => '4142.38', 'label' => 'Pg 131', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg128' => {'offset' => '4151.30', 'label' => 'Pg 132', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg129' => {'offset' => '4184.44', 'label' => 'Pg 133', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg130' => {'offset' => '4222.16', 'label' => 'Pg 134', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg131' => {'offset' => '4256.50', 'label' => 'Pg 135', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg132' => {'offset' => '4289.45', 'label' => 'Pg 136', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg133' => {'offset' => '4323.43', 'label' => 'Pg 137', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg134' => {'offset' => '4359.45', 'label' => 'Pg 138', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg135' => {'offset' => '4392.9', 'label' => 'Pg 139', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg136' => {'offset' => '4429.43', 'label' => 'Pg 140', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg137' => {'offset' => '4451.33', 'label' => 'Pg 141', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg138' => {'offset' => '4485.12', 'label' => 'Pg 142', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg139' => {'offset' => '4519.45', 'label' => 'Pg 143', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg140' => {'offset' => '4559.47', 'label' => 'Pg 144', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg141' => {'offset' => '4598.14', 'label' => 'Pg 145', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg142' => {'offset' => '4640.48', 'label' => 'Pg 146', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg143' => {'offset' => '4677.46', 'label' => 'Pg 147', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg144' => {'offset' => '4713.45', 'label' => 'Pg 148', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg145' => {'offset' => '4748.43', 'label' => 'Pg 149', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg146' => {'offset' => '4786.39', 'label' => 'Pg 150', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg147' => {'offset' => '4825.46', 'label' => 'Pg 151', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg148' => {'offset' => '4861.17', 'label' => 'Pg 152', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg149' => {'offset' => '4896.45', 'label' => 'Pg 153', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg150' => {'offset' => '4934.34', 'label' => 'Pg 154', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg151' => {'offset' => '4973.20', 'label' => 'Pg 155', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg152' => {'offset' => '5014.43', 'label' => 'Pg 156', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg153' => {'offset' => '5052.30', 'label' => 'Pg 157', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg154' => {'offset' => '5093.44', 'label' => 'Pg 158', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg155' => {'offset' => '5129.47', 'label' => 'Pg 159', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg156' => {'offset' => '5166.54', 'label' => 'Pg 160', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg157' => {'offset' => '5201.16', 'label' => 'Pg 161', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg158' => {'offset' => '5228.30', 'label' => 'Pg 162', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg159' => {'offset' => '5264.49', 'label' => 'Pg 163', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg160' => {'offset' => '5300.44', 'label' => 'Pg 164', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg161' => {'offset' => '5331.50', 'label' => 'Pg 165', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg162' => {'offset' => '5352.45', 'label' => 'Pg 166', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg163' => {'offset' => '5390.41', 'label' => 'Pg 167', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg164' => {'offset' => '5424.40', 'label' => 'Pg 168', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg165' => {'offset' => '5459.8', 'label' => 'Pg 169', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg166' => {'offset' => '5488.31', 'label' => 'Pg 170', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg167' => {'offset' => '5488.31', 'label' => 'Pg 171', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg168' => {'offset' => '5525.42', 'label' => 'Pg 172', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg169' => {'offset' => '5564.10', 'label' => 'Pg 173', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg170' => {'offset' => '5604.22', 'label' => 'Pg 174', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg171' => {'offset' => '5643.38', 'label' => 'Pg 175', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg172' => {'offset' => '5678.9', 'label' => 'Pg 176', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg173' => {'offset' => '5713.46', 'label' => 'Pg 177', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg174' => {'offset' => '5733.61', 'label' => 'Pg 178', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg175' => {'offset' => '5768.5', 'label' => 'Pg 179', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg176' => {'offset' => '5807.31', 'label' => 'Pg 180', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg177' => {'offset' => '5843.36', 'label' => 'Pg 181', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg178' => {'offset' => '5879.46', 'label' => 'Pg 182', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg179' => {'offset' => '5891.23', 'label' => 'Pg 183', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg180' => {'offset' => '5928.40', 'label' => 'Pg 184', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg181' => {'offset' => '5961.45', 'label' => 'Pg 185', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg182' => {'offset' => '5996.41', 'label' => 'Pg 186', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg183' => {'offset' => '6032.47', 'label' => 'Pg 187', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg184' => {'offset' => '6064.50', 'label' => 'Pg 188', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg185' => {'offset' => '6094.53', 'label' => 'Pg 189', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg186' => {'offset' => '6127.48', 'label' => 'Pg 190', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg187' => {'offset' => '6163.36', 'label' => 'Pg 191', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg188' => {'offset' => '6197.39', 'label' => 'Pg 192', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg189' => {'offset' => '6231.46', 'label' => 'Pg 193', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg190' => {'offset' => '6265.42', 'label' => 'Pg 194', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg191' => {'offset' => '6288.16', 'label' => 'Pg 195', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg192' => {'offset' => '6321.46', 'label' => 'Pg 196', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg193' => {'offset' => '6354.27', 'label' => 'Pg 197', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg194' => {'offset' => '6389.39', 'label' => 'Pg 198', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg195' => {'offset' => '6411.24', 'label' => 'Pg 199', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg196' => {'offset' => '6445.16', 'label' => 'Pg 200', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg197' => {'offset' => '6485.37', 'label' => 'Pg 201', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg198' => {'offset' => '6524.21', 'label' => 'Pg 202', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg199' => {'offset' => '6524.21', 'label' => 'Pg 203', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg200' => {'offset' => '6559.47', 'label' => 'Pg 204', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg201' => {'offset' => '6598.50', 'label' => 'Pg 205', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg202' => {'offset' => '6633.27', 'label' => 'Pg 206', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg203' => {'offset' => '6669.46', 'label' => 'Pg 207', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg204' => {'offset' => '6700.40', 'label' => 'Pg 208', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg205' => {'offset' => '6735.6', 'label' => 'Pg 209', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg206' => {'offset' => '6775.34', 'label' => 'Pg 210', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg207' => {'offset' => '6810.44', 'label' => 'Pg 211', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg208' => {'offset' => '6848.11', 'label' => 'Pg 212', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg209' => {'offset' => '6884.14', 'label' => 'Pg 213', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg210' => {'offset' => '6921.14', 'label' => 'Pg 214', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg211' => {'offset' => '6943.49', 'label' => 'Pg 215', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg212' => {'offset' => '6977.17', 'label' => 'Pg 216', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg213' => {'offset' => '7015.46', 'label' => 'Pg 217', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg214' => {'offset' => '7048.44', 'label' => 'Pg 218', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg215' => {'offset' => '7092.12', 'label' => 'Pg 219', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg216' => {'offset' => '7135.6', 'label' => 'Pg 220', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg217' => {'offset' => '7173.5', 'label' => 'Pg 221', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg218' => {'offset' => '7179.52', 'label' => 'Pg 222', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg219' => {'offset' => '7212.6', 'label' => 'Pg 223', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg220' => {'offset' => '7251.42', 'label' => 'Pg 224', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg221' => {'offset' => '7290.17', 'label' => 'Pg 225', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg222' => {'offset' => '7329.46', 'label' => 'Pg 226', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg223' => {'offset' => '7365.27', 'label' => 'Pg 227', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg224' => {'offset' => '7403.45', 'label' => 'Pg 228', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg225' => {'offset' => '7438.47', 'label' => 'Pg 229', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg226' => {'offset' => '7476.45', 'label' => 'Pg 230', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg227' => {'offset' => '7488.32', 'label' => 'Pg 231', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg228' => {'offset' => '7521.45', 'label' => 'Pg 232', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg229' => {'offset' => '7557.45', 'label' => 'Pg 233', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg230' => {'offset' => '7592.37', 'label' => 'Pg 234', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg231' => {'offset' => '7627.47', 'label' => 'Pg 235', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg232' => {'offset' => '7658.25', 'label' => 'Pg 236', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg233' => {'offset' => '7698.5', 'label' => 'Pg 237', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg234' => {'offset' => '7737.29', 'label' => 'Pg 238', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg235' => {'offset' => '7772.53', 'label' => 'Pg 239', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg236' => {'offset' => '7812.44', 'label' => 'Pg 240', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg237' => {'offset' => '7849.49', 'label' => 'Pg 241', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg238' => {'offset' => '7880.55', 'label' => 'Pg 242', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg239' => {'offset' => '7916.13', 'label' => 'Pg 243', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg240' => {'offset' => '7951.40', 'label' => 'Pg 244', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg241' => {'offset' => '7987.47', 'label' => 'Pg 245', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg242' => {'offset' => '8023.16', 'label' => 'Pg 246', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg243' => {'offset' => '8059.43', 'label' => 'Pg 247', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg244' => {'offset' => '8069.19', 'label' => 'Pg 248', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg245' => {'offset' => '8102.38', 'label' => 'Pg 249', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg246' => {'offset' => '8125.13', 'label' => 'Pg 250', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg247' => {'offset' => '8163.56', 'label' => 'Pg 251', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg248' => {'offset' => '8197.39', 'label' => 'Pg 252', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg249' => {'offset' => '8232.26', 'label' => 'Pg 253', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg250' => {'offset' => '8267.48', 'label' => 'Pg 254', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg251' => {'offset' => '8299.11', 'label' => 'Pg 255', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg252' => {'offset' => '8335.50', 'label' => 'Pg 256', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg253' => {'offset' => '8342.47', 'label' => 'Pg 257', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg254' => {'offset' => '8376.23', 'label' => 'Pg 258', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg255' => {'offset' => '8420.22', 'label' => 'Pg 259', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg256' => {'offset' => '8467.26', 'label' => 'Pg 260', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg257' => {'offset' => '8509.44', 'label' => 'Pg 261', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg258' => {'offset' => '8549.33', 'label' => 'Pg 262', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg259' => {'offset' => '8587.46', 'label' => 'Pg 263', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg260' => {'offset' => '8620.47', 'label' => 'Pg 264', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg261' => {'offset' => '8652.47', 'label' => 'Pg 265', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg262' => {'offset' => '8690.13', 'label' => 'Pg 266', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg263' => {'offset' => '8724.42', 'label' => 'Pg 267', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg264' => {'offset' => '8765.43', 'label' => 'Pg 268', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg265' => {'offset' => '8806.17', 'label' => 'Pg 269', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg266' => {'offset' => '8848.51', 'label' => 'Pg 270', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg267' => {'offset' => '8863.48', 'label' => 'Pg 271', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg268' => {'offset' => '8900.42', 'label' => 'Pg 272', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg269' => {'offset' => '8935.43', 'label' => 'Pg 273', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg270' => {'offset' => '8974.47', 'label' => 'Pg 274', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg271' => {'offset' => '9013.41', 'label' => 'Pg 275', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg272' => {'offset' => '9052.47', 'label' => 'Pg 276', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg273' => {'offset' => '9087.37', 'label' => 'Pg 277', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg274' => {'offset' => '9121.45', 'label' => 'Pg 278', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg275' => {'offset' => '9166.33', 'label' => 'Pg 279', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg276' => {'offset' => '9201.45', 'label' => 'Pg 280', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg277' => {'offset' => '9245.24', 'label' => 'Pg 281', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg278' => {'offset' => '9287.36', 'label' => 'Pg 282', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg279' => {'offset' => '9330.57', 'label' => 'Pg 283', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg280' => {'offset' => '9370.41', 'label' => 'Pg 284', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg281' => {'offset' => '9413.33', 'label' => 'Pg 285', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg282' => {'offset' => '9453.47', 'label' => 'Pg 286', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg283' => {'offset' => '9493.26', 'label' => 'Pg 287', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg284' => {'offset' => '9513.36', 'label' => 'Pg 288', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg285' => {'offset' => '9550.46', 'label' => 'Pg 289', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg286' => {'offset' => '9581.21', 'label' => 'Pg 290', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg287' => {'offset' => '9588.40', 'label' => 'Pg 291', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg288' => {'offset' => '9622.55', 'label' => 'Pg 292', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg289' => {'offset' => '9665.9', 'label' => 'Pg 293', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg290' => {'offset' => '9709.48', 'label' => 'Pg 294', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg291' => {'offset' => '9743.48', 'label' => 'Pg 295', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg292' => {'offset' => '9778.26', 'label' => 'Pg 296', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg293' => {'offset' => '9820.20', 'label' => 'Pg 297', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg294' => {'offset' => '9854.45', 'label' => 'Pg 298', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg295' => {'offset' => '9895.9', 'label' => 'Pg 299', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg296' => {'offset' => '9931.31', 'label' => 'Pg 300', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg297' => {'offset' => '9957.8', 'label' => 'Pg 301', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg298' => {'offset' => '9994.12', 'label' => 'Pg 302', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg299' => {'offset' => '10039.33', 'label' => 'Pg 303', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg300' => {'offset' => '10084.11', 'label' => 'Pg 304', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg301' => {'offset' => '10096.18', 'label' => 'Pg 305', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg302' => {'offset' => '10130.42', 'label' => 'Pg 306', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg303' => {'offset' => '10167.48', 'label' => 'Pg 307', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg304' => {'offset' => '10200.43', 'label' => 'Pg 308', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg305' => {'offset' => '10235.44', 'label' => 'Pg 309', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg306' => {'offset' => '10267.11', 'label' => 'Pg 310', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg307' => {'offset' => '10274.33', 'label' => 'Pg 311', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg308' => {'offset' => '10306.46', 'label' => 'Pg 312', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg309' => {'offset' => '10341.29', 'label' => 'Pg 313', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg310' => {'offset' => '10376.46', 'label' => 'Pg 314', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg311' => {'offset' => '10417.44', 'label' => 'Pg 315', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg312' => {'offset' => '10455.40', 'label' => 'Pg 316', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg313' => {'offset' => '10492.7', 'label' => 'Pg 317', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg314' => {'offset' => '10510.34', 'label' => 'Pg 318', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg315' => {'offset' => '10545.51', 'label' => 'Pg 319', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg316' => {'offset' => '10588.16', 'label' => 'Pg 320', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg317' => {'offset' => '10628.46', 'label' => 'Pg 321', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg318' => {'offset' => '10668.37', 'label' => 'Pg 322', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg319' => {'offset' => '10707.40', 'label' => 'Pg 323', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg320' => {'offset' => '10755.45', 'label' => 'Pg 324', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg321' => {'offset' => '10796.15', 'label' => 'Pg 325', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg322' => {'offset' => '10835.44', 'label' => 'Pg 326', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg323' => {'offset' => '10875.50', 'label' => 'Pg 327', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg324' => {'offset' => '10909.11', 'label' => 'Pg 328', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg325' => {'offset' => '10933.31', 'label' => 'Pg 329', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg326' => {'offset' => '10970.35', 'label' => 'Pg 330', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg327' => {'offset' => '11011.41', 'label' => 'Pg 331', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg328' => {'offset' => '11054.37', 'label' => 'Pg 332', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg329' => {'offset' => '11092.45', 'label' => 'Pg 333', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg330' => {'offset' => '11129.42', 'label' => 'Pg 334', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg331' => {'offset' => '11168.43', 'label' => 'Pg 335', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg332' => {'offset' => '11202.40', 'label' => 'Pg 336', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg333' => {'offset' => '11212.7', 'label' => 'Pg 337', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg334' => {'offset' => '11246.56', 'label' => 'Pg 338', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg335' => {'offset' => '11290.28', 'label' => 'Pg 339', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg336' => {'offset' => '11331.39', 'label' => 'Pg 340', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg337' => {'offset' => '11369.43', 'label' => 'Pg 341', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg338' => {'offset' => '11404.46', 'label' => 'Pg 342', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg339' => {'offset' => '11417.6', 'label' => 'Pg 343', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg340' => {'offset' => '11453.9', 'label' => 'Pg 344', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg341' => {'offset' => '11499.37', 'label' => 'Pg 345', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg342' => {'offset' => '11537.22', 'label' => 'Pg 346', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg343' => {'offset' => '11575.47', 'label' => 'Pg 347', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg344' => {'offset' => '11617.12', 'label' => 'Pg 348', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg345' => {'offset' => '11628.3', 'label' => 'Pg 349', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg346' => {'offset' => '11687.2', 'label' => 'Pg 350', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg347' => {'offset' => '11756.32', 'label' => 'Pg 351', 'style' => '"', 'action' => '+1', 'base' => ''},
+);
+
+$::proofers{'001'}[1] = 'carlosrc';
+$::proofers{'001'}[2] = 'AndrewH';
+$::proofers{'001'}[3] = 'honeybun';
+$::proofers{'001'}[4] = 'carlosrc';
+$::proofers{'001'}[5] = 'Close@Hand';
+$::proofers{'002'}[1] = 'carlosrc';
+$::proofers{'002'}[2] = 'AndrewH';
+$::proofers{'002'}[3] = 'honeybun';
+$::proofers{'002'}[4] = 'carlosrc';
+$::proofers{'002'}[5] = 'Close@Hand';
+$::proofers{'003'}[1] = 'carlosrc';
+$::proofers{'003'}[2] = 'AndrewH';
+$::proofers{'003'}[3] = 'honeybun';
+$::proofers{'003'}[4] = 'carlosrc';
+$::proofers{'003'}[5] = 'hazeleyeflgal';
+$::proofers{'004'}[1] = 'carlosrc';
+$::proofers{'004'}[2] = 'AndrewH';
+$::proofers{'004'}[3] = 'honeybun';
+$::proofers{'004'}[4] = 'carlosrc';
+$::proofers{'004'}[5] = 'hazeleyeflgal';
+$::proofers{'005'}[1] = 'carlosrc';
+$::proofers{'005'}[2] = 'AndrewH';
+$::proofers{'005'}[3] = 'MilochGermany';
+$::proofers{'005'}[4] = 'carlosrc';
+$::proofers{'005'}[5] = 'hazeleyeflgal';
+$::proofers{'006'}[1] = 'carlosrc';
+$::proofers{'006'}[2] = 'Tantalo';
+$::proofers{'006'}[3] = 'MilochGermany';
+$::proofers{'006'}[4] = 'carlosrc';
+$::proofers{'006'}[5] = 'hazeleyeflgal';
+$::proofers{'007'}[1] = 'carlosrc';
+$::proofers{'007'}[2] = 'Tantalo';
+$::proofers{'007'}[3] = 'MilochGermany';
+$::proofers{'007'}[4] = 'carlosrc';
+$::proofers{'007'}[5] = 'hazeleyeflgal';
+$::proofers{'008'}[1] = 'carlosrc';
+$::proofers{'008'}[2] = 'Tantalo';
+$::proofers{'008'}[3] = 'MilochGermany';
+$::proofers{'008'}[4] = 'Julio Mendoza';
+$::proofers{'008'}[5] = 'hazeleyeflgal';
+$::proofers{'009'}[1] = 'catalino';
+$::proofers{'009'}[2] = 'Tantalo';
+$::proofers{'009'}[3] = 'bfarenaz';
+$::proofers{'009'}[4] = 'Julio Mendoza';
+$::proofers{'009'}[5] = 'hazeleyeflgal';
+$::proofers{'010'}[1] = 'escalera2';
+$::proofers{'010'}[2] = 'Tantalo';
+$::proofers{'010'}[3] = 'bfarenaz';
+$::proofers{'010'}[4] = 'Julio Mendoza';
+$::proofers{'010'}[5] = 'hazeleyeflgal';
+$::proofers{'011'}[1] = 'escalera2';
+$::proofers{'011'}[2] = 'Tantalo';
+$::proofers{'011'}[3] = 'bfarenaz';
+$::proofers{'011'}[4] = 'carlosrc';
+$::proofers{'011'}[5] = 'hazeleyeflgal';
+$::proofers{'012'}[1] = 'escalera2';
+$::proofers{'012'}[2] = 'Tantalo';
+$::proofers{'012'}[3] = 'bfarenaz';
+$::proofers{'012'}[4] = 'carlosrc';
+$::proofers{'012'}[5] = 'hazeleyeflgal';
+$::proofers{'013'}[1] = 'escalera2';
+$::proofers{'013'}[2] = 'Tantalo';
+$::proofers{'013'}[3] = 'bfarenaz';
+$::proofers{'013'}[4] = 'Julio Mendoza';
+$::proofers{'013'}[5] = 'hazeleyeflgal';
+$::proofers{'014'}[1] = 'escalera2';
+$::proofers{'014'}[2] = 'Tantalo';
+$::proofers{'014'}[3] = 'bfarenaz';
+$::proofers{'014'}[4] = 'Julio Mendoza';
+$::proofers{'014'}[5] = 'hazeleyeflgal';
+$::proofers{'015'}[1] = 'escalera2';
+$::proofers{'015'}[2] = 'Tantalo';
+$::proofers{'015'}[3] = 'bfarenaz';
+$::proofers{'015'}[4] = 'Julio Mendoza';
+$::proofers{'015'}[5] = 'hazeleyeflgal';
+$::proofers{'016'}[1] = 'escalera2';
+$::proofers{'016'}[2] = 'AndrewH';
+$::proofers{'016'}[3] = 'bfarenaz';
+$::proofers{'016'}[4] = 'Julio Mendoza';
+$::proofers{'016'}[5] = 'hazeleyeflgal';
+$::proofers{'017'}[1] = 'escalera2';
+$::proofers{'017'}[2] = 'jpratramon';
+$::proofers{'017'}[3] = 'bfarenaz';
+$::proofers{'017'}[4] = 'Julio Mendoza';
+$::proofers{'017'}[5] = 'hazeleyeflgal';
+$::proofers{'018'}[1] = 'escalera2';
+$::proofers{'018'}[2] = 'Tantalo';
+$::proofers{'018'}[3] = 'MilochGermany';
+$::proofers{'018'}[4] = 'Julio Mendoza';
+$::proofers{'018'}[5] = 'hazeleyeflgal';
+$::proofers{'019'}[1] = 'escalera2';
+$::proofers{'019'}[2] = 'Tantalo';
+$::proofers{'019'}[3] = 'MilochGermany';
+$::proofers{'019'}[4] = 'Julio Mendoza';
+$::proofers{'019'}[5] = 'hazeleyeflgal';
+$::proofers{'020'}[1] = 'escalera2';
+$::proofers{'020'}[2] = 'Tantalo';
+$::proofers{'020'}[3] = 'MilochGermany';
+$::proofers{'020'}[4] = 'Julio Mendoza';
+$::proofers{'020'}[5] = 'hazeleyeflgal';
+$::proofers{'021'}[1] = 'escalera2';
+$::proofers{'021'}[2] = 'Tantalo';
+$::proofers{'021'}[3] = 'MilochGermany';
+$::proofers{'021'}[4] = 'Julio Mendoza';
+$::proofers{'021'}[5] = 'hazeleyeflgal';
+$::proofers{'022'}[1] = 'catalino';
+$::proofers{'022'}[2] = 'Tantalo';
+$::proofers{'022'}[3] = 'catalino';
+$::proofers{'022'}[4] = 'carlosrc';
+$::proofers{'022'}[5] = 'hazeleyeflgal';
+$::proofers{'023'}[1] = 'carlosrc';
+$::proofers{'023'}[2] = 'Tantalo';
+$::proofers{'023'}[3] = 'MilochGermany';
+$::proofers{'023'}[4] = 'Julio Mendoza';
+$::proofers{'023'}[5] = 'hazeleyeflgal';
+$::proofers{'024'}[1] = 'carlosrc';
+$::proofers{'024'}[2] = 'jpratramon';
+$::proofers{'024'}[3] = 'MilochGermany';
+$::proofers{'024'}[4] = 'Julio Mendoza';
+$::proofers{'024'}[5] = 'hazeleyeflgal';
+$::proofers{'025'}[1] = 'carlosrc';
+$::proofers{'025'}[2] = 'bfarenaz';
+$::proofers{'025'}[3] = 'MilochGermany';
+$::proofers{'025'}[4] = 'carlosrc';
+$::proofers{'025'}[5] = 'hazeleyeflgal';
+$::proofers{'026'}[1] = 'rpajares';
+$::proofers{'026'}[2] = 'bfarenaz';
+$::proofers{'026'}[3] = 'catalino';
+$::proofers{'026'}[4] = 'carlosrc';
+$::proofers{'026'}[5] = 'hazeleyeflgal';
+$::proofers{'027'}[1] = 'rpajares';
+$::proofers{'027'}[2] = 'bfarenaz';
+$::proofers{'027'}[3] = 'MilochGermany';
+$::proofers{'027'}[4] = 'carlosrc';
+$::proofers{'027'}[5] = 'hazeleyeflgal';
+$::proofers{'028'}[1] = 'rpajares';
+$::proofers{'028'}[2] = 'Tantalo';
+$::proofers{'028'}[3] = 'bfarenaz';
+$::proofers{'028'}[4] = 'Julio Mendoza';
+$::proofers{'028'}[5] = 'hazeleyeflgal';
+$::proofers{'029'}[1] = 'rpajares';
+$::proofers{'029'}[2] = 'Tantalo';
+$::proofers{'029'}[3] = 'bfarenaz';
+$::proofers{'029'}[4] = 'Julio Mendoza';
+$::proofers{'029'}[5] = 'hazeleyeflgal';
+$::proofers{'030'}[1] = 'rpajares';
+$::proofers{'030'}[2] = 'Tantalo';
+$::proofers{'030'}[3] = 'bfarenaz';
+$::proofers{'030'}[4] = 'Julio Mendoza';
+$::proofers{'030'}[5] = 'hazeleyeflgal';
+$::proofers{'031'}[1] = 'rpajares';
+$::proofers{'031'}[2] = 'Tantalo';
+$::proofers{'031'}[3] = 'bfarenaz';
+$::proofers{'031'}[4] = 'Julio Mendoza';
+$::proofers{'031'}[5] = 'hazeleyeflgal';
+$::proofers{'032'}[1] = 'rpajares';
+$::proofers{'032'}[2] = 'rmarabini';
+$::proofers{'032'}[3] = 'bfarenaz';
+$::proofers{'032'}[4] = 'carlosrc';
+$::proofers{'032'}[5] = 'hazeleyeflgal';
+$::proofers{'033'}[1] = 'rpajares';
+$::proofers{'033'}[2] = 'rmarabini';
+$::proofers{'033'}[3] = 'bfarenaz';
+$::proofers{'033'}[4] = 'Julio Mendoza';
+$::proofers{'033'}[5] = 'hazeleyeflgal';
+$::proofers{'034'}[1] = 'rpajares';
+$::proofers{'034'}[2] = 'bfarenaz';
+$::proofers{'034'}[3] = 'MilochGermany';
+$::proofers{'034'}[4] = 'Julio Mendoza';
+$::proofers{'034'}[5] = 'hazeleyeflgal';
+$::proofers{'035'}[1] = 'hskopnik';
+$::proofers{'035'}[2] = 'jpratramon';
+$::proofers{'035'}[3] = 'bfarenaz';
+$::proofers{'035'}[4] = 'Julio Mendoza';
+$::proofers{'035'}[5] = 'hazeleyeflgal';
+$::proofers{'036'}[1] = 'hskopnik';
+$::proofers{'036'}[2] = 'bfarenaz';
+$::proofers{'036'}[3] = 'MilochGermany';
+$::proofers{'036'}[4] = 'bfarenaz';
+$::proofers{'036'}[5] = 'hazeleyeflgal';
+$::proofers{'037'}[1] = 'hskopnik';
+$::proofers{'037'}[2] = 'Tantalo';
+$::proofers{'037'}[3] = 'bfarenaz';
+$::proofers{'037'}[4] = 'Julio Mendoza';
+$::proofers{'037'}[5] = 'hazeleyeflgal';
+$::proofers{'038'}[1] = 'hskopnik';
+$::proofers{'038'}[2] = 'Tantalo';
+$::proofers{'038'}[3] = 'bfarenaz';
+$::proofers{'038'}[4] = 'Julio Mendoza';
+$::proofers{'038'}[5] = 'hazeleyeflgal';
+$::proofers{'039'}[1] = 'hskopnik';
+$::proofers{'039'}[2] = 'Tantalo';
+$::proofers{'039'}[3] = 'bfarenaz';
+$::proofers{'039'}[4] = 'Julio Mendoza';
+$::proofers{'039'}[5] = 'hazeleyeflgal';
+$::proofers{'040'}[1] = 'hskopnik';
+$::proofers{'040'}[2] = 'Tantalo';
+$::proofers{'040'}[3] = 'bfarenaz';
+$::proofers{'040'}[4] = 'Julio Mendoza';
+$::proofers{'040'}[5] = 'hazeleyeflgal';
+$::proofers{'041'}[1] = 'hskopnik';
+$::proofers{'041'}[2] = 'Tantalo';
+$::proofers{'041'}[3] = 'bfarenaz';
+$::proofers{'041'}[4] = 'carlosrc';
+$::proofers{'041'}[5] = 'hazeleyeflgal';
+$::proofers{'042'}[1] = 'hskopnik';
+$::proofers{'042'}[2] = 'Tantalo';
+$::proofers{'042'}[3] = 'bfarenaz';
+$::proofers{'042'}[4] = 'Julio Mendoza';
+$::proofers{'042'}[5] = 'hazeleyeflgal';
+$::proofers{'043'}[1] = 'hskopnik';
+$::proofers{'043'}[2] = 'bfarenaz';
+$::proofers{'043'}[3] = 'MilochGermany';
+$::proofers{'043'}[4] = 'bfarenaz';
+$::proofers{'043'}[5] = 'hazeleyeflgal';
+$::proofers{'044'}[1] = 'hskopnik';
+$::proofers{'044'}[2] = 'jpratramon';
+$::proofers{'044'}[3] = 'bfarenaz';
+$::proofers{'044'}[4] = 'Julio Mendoza';
+$::proofers{'044'}[5] = 'hazeleyeflgal';
+$::proofers{'045'}[1] = 'catalino';
+$::proofers{'045'}[2] = 'escalera2';
+$::proofers{'045'}[3] = 'bfarenaz';
+$::proofers{'045'}[4] = 'Julio Mendoza';
+$::proofers{'045'}[5] = 'hazeleyeflgal';
+$::proofers{'046'}[1] = 'bfarenaz';
+$::proofers{'046'}[2] = 'escalera2';
+$::proofers{'046'}[3] = 'bfarenaz';
+$::proofers{'046'}[4] = 'Julio Mendoza';
+$::proofers{'046'}[5] = 'hazeleyeflgal';
+$::proofers{'047'}[1] = 'indalikito';
+$::proofers{'047'}[2] = 'escalera2';
+$::proofers{'047'}[3] = 'bfarenaz';
+$::proofers{'047'}[4] = 'carlosrc';
+$::proofers{'047'}[5] = 'hazeleyeflgal';
+$::proofers{'048'}[1] = 'indalikito';
+$::proofers{'048'}[2] = 'escalera2';
+$::proofers{'048'}[3] = 'bfarenaz';
+$::proofers{'048'}[4] = 'rmarabini';
+$::proofers{'048'}[5] = 'hazeleyeflgal';
+$::proofers{'049'}[1] = 'indalikito';
+$::proofers{'049'}[2] = 'escalera2';
+$::proofers{'049'}[3] = 'bfarenaz';
+$::proofers{'049'}[4] = 'rmarabini';
+$::proofers{'049'}[5] = 'hazeleyeflgal';
+$::proofers{'050'}[1] = 'indalikito';
+$::proofers{'050'}[2] = 'escalera2';
+$::proofers{'050'}[3] = 'MilochGermany';
+$::proofers{'050'}[4] = 'bfarenaz';
+$::proofers{'050'}[5] = 'hazeleyeflgal';
+$::proofers{'051'}[1] = 'carlosrc';
+$::proofers{'051'}[2] = 'escalera2';
+$::proofers{'051'}[3] = 'bfarenaz';
+$::proofers{'051'}[4] = 'rmarabini';
+$::proofers{'051'}[5] = 'K7UQT';
+$::proofers{'052'}[1] = 'carlosrc';
+$::proofers{'052'}[2] = 'escalera2';
+$::proofers{'052'}[3] = 'bfarenaz';
+$::proofers{'052'}[4] = 'rmarabini';
+$::proofers{'052'}[5] = 'K7UQT';
+$::proofers{'053'}[1] = 'bfarenaz';
+$::proofers{'053'}[2] = 'escalera2';
+$::proofers{'053'}[3] = 'bfarenaz';
+$::proofers{'053'}[4] = 'rmarabini';
+$::proofers{'053'}[5] = 'K7UQT';
+$::proofers{'054'}[1] = 'rmarabini';
+$::proofers{'054'}[2] = 'escalera2';
+$::proofers{'054'}[3] = 'bfarenaz';
+$::proofers{'054'}[4] = 'rmarabini';
+$::proofers{'054'}[5] = 'K7UQT';
+$::proofers{'055'}[1] = 'escalera2';
+$::proofers{'055'}[2] = 'Tantalo';
+$::proofers{'055'}[3] = 'MilochGermany';
+$::proofers{'055'}[4] = 'bfarenaz';
+$::proofers{'055'}[5] = 'K7UQT';
+$::proofers{'056'}[1] = 'escalera2';
+$::proofers{'056'}[2] = 'Tantalo';
+$::proofers{'056'}[3] = 'MilochGermany';
+$::proofers{'056'}[4] = 'bfarenaz';
+$::proofers{'056'}[5] = 'ellinora';
+$::proofers{'057'}[1] = 'escalera2';
+$::proofers{'057'}[2] = 'Tantalo';
+$::proofers{'057'}[3] = 'MilochGermany';
+$::proofers{'057'}[4] = 'bfarenaz';
+$::proofers{'057'}[5] = 'ellinora';
+$::proofers{'058'}[1] = 'rpajares';
+$::proofers{'058'}[2] = 'escalera2';
+$::proofers{'058'}[3] = 'MilochGermany';
+$::proofers{'058'}[4] = 'bfarenaz';
+$::proofers{'058'}[5] = 'ellinora';
+$::proofers{'059'}[1] = 'rpajares';
+$::proofers{'059'}[2] = 'escalera2';
+$::proofers{'059'}[3] = 'bfarenaz';
+$::proofers{'059'}[4] = 'rmarabini';
+$::proofers{'059'}[5] = 'ellinora';
+$::proofers{'060'}[1] = 'rpajares';
+$::proofers{'060'}[2] = 'escalera2';
+$::proofers{'060'}[3] = 'bfarenaz';
+$::proofers{'060'}[4] = 'rmarabini';
+$::proofers{'060'}[5] = 'ellinora';
+$::proofers{'061'}[1] = 'rpajares';
+$::proofers{'061'}[2] = 'escalera2';
+$::proofers{'061'}[3] = 'bfarenaz';
+$::proofers{'061'}[4] = 'rmarabini';
+$::proofers{'061'}[5] = 'ellinora';
+$::proofers{'062'}[1] = 'rpajares';
+$::proofers{'062'}[2] = 'escalera2';
+$::proofers{'062'}[3] = 'bfarenaz';
+$::proofers{'062'}[4] = 'rmarabini';
+$::proofers{'062'}[5] = 'ellinora';
+$::proofers{'063'}[1] = 'rpajares';
+$::proofers{'063'}[2] = 'escalera2';
+$::proofers{'063'}[3] = 'bfarenaz';
+$::proofers{'063'}[4] = 'rmarabini';
+$::proofers{'063'}[5] = 'ellinora';
+$::proofers{'064'}[1] = 'rpajares';
+$::proofers{'064'}[2] = 'escalera2';
+$::proofers{'064'}[3] = 'bfarenaz';
+$::proofers{'064'}[4] = 'rmarabini';
+$::proofers{'064'}[5] = 'ellinora';
+$::proofers{'065'}[1] = 'rpajares';
+$::proofers{'065'}[2] = 'escalera2';
+$::proofers{'065'}[3] = 'bfarenaz';
+$::proofers{'065'}[4] = 'rmarabini';
+$::proofers{'065'}[5] = 'ellinora';
+$::proofers{'066'}[1] = 'rpajares';
+$::proofers{'066'}[2] = 'escalera2';
+$::proofers{'066'}[3] = 'bfarenaz';
+$::proofers{'066'}[4] = 'rmarabini';
+$::proofers{'066'}[5] = 'ellinora';
+$::proofers{'067'}[1] = 'rpajares';
+$::proofers{'067'}[2] = 'escalera2';
+$::proofers{'067'}[3] = 'bfarenaz';
+$::proofers{'067'}[4] = 'rmarabini';
+$::proofers{'067'}[5] = 'ellinora';
+$::proofers{'068'}[1] = 'rpajares';
+$::proofers{'068'}[2] = 'escalera2';
+$::proofers{'068'}[3] = 'MilochGermany';
+$::proofers{'068'}[4] = 'bfarenaz';
+$::proofers{'068'}[5] = 'ellinora';
+$::proofers{'069'}[1] = 'rpajares';
+$::proofers{'069'}[2] = 'escalera2';
+$::proofers{'069'}[3] = 'MilochGermany';
+$::proofers{'069'}[4] = 'bfarenaz';
+$::proofers{'069'}[5] = 'ellinora';
+$::proofers{'070'}[1] = 'rpajares';
+$::proofers{'070'}[2] = 'Tantalo';
+$::proofers{'070'}[3] = 'MilochGermany';
+$::proofers{'070'}[4] = 'bfarenaz';
+$::proofers{'070'}[5] = 'ellinora';
+$::proofers{'071'}[1] = 'catalino';
+$::proofers{'071'}[2] = 'Tantalo';
+$::proofers{'071'}[3] = 'MilochGermany';
+$::proofers{'071'}[4] = 'bfarenaz';
+$::proofers{'071'}[5] = 'ellinora';
+$::proofers{'072'}[1] = 'escalera2';
+$::proofers{'072'}[2] = 'Tantalo';
+$::proofers{'072'}[3] = 'MilochGermany';
+$::proofers{'072'}[4] = 'bfarenaz';
+$::proofers{'072'}[5] = 'ellinora';
+$::proofers{'073'}[1] = 'escalera2';
+$::proofers{'073'}[2] = 'F1';
+$::proofers{'073'}[3] = 'bfarenaz';
+$::proofers{'073'}[4] = 'rmarabini';
+$::proofers{'073'}[5] = 'ellinora';
+$::proofers{'074'}[1] = 'escalera2';
+$::proofers{'074'}[2] = 'F1';
+$::proofers{'074'}[3] = 'bfarenaz';
+$::proofers{'074'}[4] = 'rmarabini';
+$::proofers{'074'}[5] = 'ellinora';
+$::proofers{'075'}[1] = 'escalera2';
+$::proofers{'075'}[2] = 'F1';
+$::proofers{'075'}[3] = 'bfarenaz';
+$::proofers{'075'}[4] = 'rmarabini';
+$::proofers{'075'}[5] = 'ellinora';
+$::proofers{'076'}[1] = 'escalera2';
+$::proofers{'076'}[2] = 'F1';
+$::proofers{'076'}[3] = 'bfarenaz';
+$::proofers{'076'}[4] = 'rmarabini';
+$::proofers{'076'}[5] = 'ellinora';
+$::proofers{'077'}[1] = 'escalera2';
+$::proofers{'077'}[2] = 'F1';
+$::proofers{'077'}[3] = 'bfarenaz';
+$::proofers{'077'}[4] = 'rmarabini';
+$::proofers{'077'}[5] = 'ellinora';
+$::proofers{'078'}[1] = 'escalera2';
+$::proofers{'078'}[2] = 'F1';
+$::proofers{'078'}[3] = 'bfarenaz';
+$::proofers{'078'}[4] = 'rmarabini';
+$::proofers{'078'}[5] = 'ellinora';
+$::proofers{'079'}[1] = 'escalera2';
+$::proofers{'079'}[2] = 'F1';
+$::proofers{'079'}[3] = 'bfarenaz';
+$::proofers{'079'}[4] = 'rmarabini';
+$::proofers{'079'}[5] = 'ellinora';
+$::proofers{'080'}[1] = 'escalera2';
+$::proofers{'080'}[2] = 'F1';
+$::proofers{'080'}[3] = 'bfarenaz';
+$::proofers{'080'}[4] = 'rmarabini';
+$::proofers{'080'}[5] = 'ellinora';
+$::proofers{'081'}[1] = 'escalera2';
+$::proofers{'081'}[2] = 'F1';
+$::proofers{'081'}[3] = 'bfarenaz';
+$::proofers{'081'}[4] = 'rmarabini';
+$::proofers{'081'}[5] = 'ellinora';
+$::proofers{'082'}[1] = 'escalera2';
+$::proofers{'082'}[2] = 'F1';
+$::proofers{'082'}[3] = 'bfarenaz';
+$::proofers{'082'}[4] = 'rmarabini';
+$::proofers{'082'}[5] = 'ellinora';
+$::proofers{'083'}[1] = 'escalera2';
+$::proofers{'083'}[2] = 'F1';
+$::proofers{'083'}[3] = 'bfarenaz';
+$::proofers{'083'}[4] = 'rmarabini';
+$::proofers{'083'}[5] = 'ellinora';
+$::proofers{'084'}[1] = 'escalera2';
+$::proofers{'084'}[2] = 'F1';
+$::proofers{'084'}[3] = 'bfarenaz';
+$::proofers{'084'}[4] = 'rmarabini';
+$::proofers{'084'}[5] = 'ellinora';
+$::proofers{'085'}[1] = 'escalera2';
+$::proofers{'085'}[2] = 'F1';
+$::proofers{'085'}[3] = 'bfarenaz';
+$::proofers{'085'}[4] = 'rmarabini';
+$::proofers{'085'}[5] = 'ellinora';
+$::proofers{'086'}[1] = 'escalera2';
+$::proofers{'086'}[2] = 'F1';
+$::proofers{'086'}[3] = 'bfarenaz';
+$::proofers{'086'}[4] = 'rmarabini';
+$::proofers{'086'}[5] = 'ellinora';
+$::proofers{'087'}[1] = 'indalikito';
+$::proofers{'087'}[2] = 'F1';
+$::proofers{'087'}[3] = 'bfarenaz';
+$::proofers{'087'}[4] = 'rmarabini';
+$::proofers{'087'}[5] = 'ellinora';
+$::proofers{'088'}[1] = 'indalikito';
+$::proofers{'088'}[2] = 'F1';
+$::proofers{'088'}[3] = 'bfarenaz';
+$::proofers{'088'}[4] = 'rmarabini';
+$::proofers{'088'}[5] = 'ellinora';
+$::proofers{'089'}[1] = 'indalikito';
+$::proofers{'089'}[2] = 'F1';
+$::proofers{'089'}[3] = 'bfarenaz';
+$::proofers{'089'}[4] = 'rmarabini';
+$::proofers{'089'}[5] = 'ellinora';
+$::proofers{'090'}[1] = 'indalikito';
+$::proofers{'090'}[2] = 'F1';
+$::proofers{'090'}[3] = 'bfarenaz';
+$::proofers{'090'}[4] = 'rmarabini';
+$::proofers{'090'}[5] = 'ellinora';
+$::proofers{'091'}[1] = 'escalera2';
+$::proofers{'091'}[2] = 'F1';
+$::proofers{'091'}[3] = 'bfarenaz';
+$::proofers{'091'}[4] = 'rmarabini';
+$::proofers{'091'}[5] = 'ellinora';
+$::proofers{'092'}[1] = 'escalera2';
+$::proofers{'092'}[2] = 'F1';
+$::proofers{'092'}[3] = 'bfarenaz';
+$::proofers{'092'}[4] = 'rmarabini';
+$::proofers{'092'}[5] = 'ellinora';
+$::proofers{'093'}[1] = 'escalera2';
+$::proofers{'093'}[2] = 'bfarenaz';
+$::proofers{'093'}[3] = 'espe';
+$::proofers{'093'}[4] = 'bfarenaz';
+$::proofers{'093'}[5] = 'ellinora';
+$::proofers{'094'}[1] = 'escalera2';
+$::proofers{'094'}[2] = 'jpratramon';
+$::proofers{'094'}[3] = 'bfarenaz';
+$::proofers{'094'}[4] = 'rmarabini';
+$::proofers{'094'}[5] = 'ellinora';
+$::proofers{'095'}[1] = 'escalera2';
+$::proofers{'095'}[2] = 'F1';
+$::proofers{'095'}[3] = 'bfarenaz';
+$::proofers{'095'}[4] = 'rmarabini';
+$::proofers{'095'}[5] = 'ellinora';
+$::proofers{'096'}[1] = 'escalera2';
+$::proofers{'096'}[2] = 'F1';
+$::proofers{'096'}[3] = 'bfarenaz';
+$::proofers{'096'}[4] = 'rmarabini';
+$::proofers{'096'}[5] = 'ellinora';
+$::proofers{'097'}[1] = 'rpajares';
+$::proofers{'097'}[2] = 'escalera2';
+$::proofers{'097'}[3] = 'bfarenaz';
+$::proofers{'097'}[4] = 'rmarabini';
+$::proofers{'097'}[5] = 'ellinora';
+$::proofers{'098'}[1] = 'rpajares';
+$::proofers{'098'}[2] = 'escalera2';
+$::proofers{'098'}[3] = 'bfarenaz';
+$::proofers{'098'}[4] = 'rmarabini';
+$::proofers{'098'}[5] = 'ellinora';
+$::proofers{'099'}[1] = 'rpajares';
+$::proofers{'099'}[2] = 'escalera2';
+$::proofers{'099'}[3] = 'espe';
+$::proofers{'099'}[4] = 'bfarenaz';
+$::proofers{'099'}[5] = 'ellinora';
+$::proofers{'100'}[1] = 'rpajares';
+$::proofers{'100'}[2] = 'escalera2';
+$::proofers{'100'}[3] = 'bfarenaz';
+$::proofers{'100'}[4] = 'rmarabini';
+$::proofers{'100'}[5] = 'ellinora';
+$::proofers{'101'}[1] = 'rpajares';
+$::proofers{'101'}[2] = 'escalera2';
+$::proofers{'101'}[3] = 'bfarenaz';
+$::proofers{'101'}[4] = 'rmarabini';
+$::proofers{'101'}[5] = 'ellinora';
+$::proofers{'102'}[1] = 'rpajares';
+$::proofers{'102'}[2] = 'escalera2';
+$::proofers{'102'}[3] = 'bfarenaz';
+$::proofers{'102'}[4] = 'rmarabini';
+$::proofers{'102'}[5] = 'ellinora';
+$::proofers{'103'}[1] = 'rpajares';
+$::proofers{'103'}[2] = 'escalera2';
+$::proofers{'103'}[3] = 'bfarenaz';
+$::proofers{'103'}[4] = 'rmarabini';
+$::proofers{'103'}[5] = 'ellinora';
+$::proofers{'104'}[1] = 'rpajares';
+$::proofers{'104'}[2] = 'escalera2';
+$::proofers{'104'}[3] = 'bfarenaz';
+$::proofers{'104'}[4] = 'rmarabini';
+$::proofers{'104'}[5] = 'ellinora';
+$::proofers{'105'}[1] = 'rpajares';
+$::proofers{'105'}[2] = 'escalera2';
+$::proofers{'105'}[3] = 'bfarenaz';
+$::proofers{'105'}[4] = 'rmarabini';
+$::proofers{'105'}[5] = 'ellinora';
+$::proofers{'106'}[1] = 'rpajares';
+$::proofers{'106'}[2] = 'escalera2';
+$::proofers{'106'}[3] = 'bfarenaz';
+$::proofers{'106'}[4] = 'rmarabini';
+$::proofers{'106'}[5] = 'ellinora';
+$::proofers{'107'}[1] = 'rpajares';
+$::proofers{'107'}[2] = 'escalera2';
+$::proofers{'107'}[3] = 'bfarenaz';
+$::proofers{'107'}[4] = 'rmarabini';
+$::proofers{'107'}[5] = 'ellinora';
+$::proofers{'108'}[1] = 'rpajares';
+$::proofers{'108'}[2] = 'escalera2';
+$::proofers{'108'}[3] = 'bfarenaz';
+$::proofers{'108'}[4] = 'rmarabini';
+$::proofers{'108'}[5] = 'ellinora';
+$::proofers{'109'}[1] = 'bfarenaz';
+$::proofers{'109'}[2] = 'escalera2';
+$::proofers{'109'}[3] = 'bfarenaz';
+$::proofers{'109'}[4] = 'rmarabini';
+$::proofers{'109'}[5] = 'ellinora';
+$::proofers{'110'}[1] = 'catalino';
+$::proofers{'110'}[2] = 'escalera2';
+$::proofers{'110'}[3] = 'bfarenaz';
+$::proofers{'110'}[4] = 'rmarabini';
+$::proofers{'110'}[5] = 'ellinora';
+$::proofers{'111'}[1] = 'Golfino';
+$::proofers{'111'}[2] = 'escalera2';
+$::proofers{'111'}[3] = 'bfarenaz';
+$::proofers{'111'}[4] = 'rmarabini';
+$::proofers{'111'}[5] = 'ellinora';
+$::proofers{'112'}[1] = 'Golfino';
+$::proofers{'112'}[2] = 'escalera2';
+$::proofers{'112'}[3] = 'bfarenaz';
+$::proofers{'112'}[4] = 'rmarabini';
+$::proofers{'112'}[5] = 'ellinora';
+$::proofers{'113'}[1] = 'Golfino';
+$::proofers{'113'}[2] = 'escalera2';
+$::proofers{'113'}[3] = 'bfarenaz';
+$::proofers{'113'}[4] = 'rmarabini';
+$::proofers{'113'}[5] = 'ellinora';
+$::proofers{'114'}[1] = 'Golfino';
+$::proofers{'114'}[2] = 'escalera2';
+$::proofers{'114'}[3] = 'bfarenaz';
+$::proofers{'114'}[4] = 'rmarabini';
+$::proofers{'114'}[5] = 'ellinora';
+$::proofers{'115'}[1] = 'Golfino';
+$::proofers{'115'}[2] = 'escalera2';
+$::proofers{'115'}[3] = 'bfarenaz';
+$::proofers{'115'}[4] = 'rmarabini';
+$::proofers{'115'}[5] = 'ellinora';
+$::proofers{'116'}[1] = 'Golfino';
+$::proofers{'116'}[2] = 'escalera2';
+$::proofers{'116'}[3] = 'bfarenaz';
+$::proofers{'116'}[4] = 'rmarabini';
+$::proofers{'116'}[5] = 'ellinora';
+$::proofers{'117'}[1] = 'Golfino';
+$::proofers{'117'}[2] = 'escalera2';
+$::proofers{'117'}[3] = 'bfarenaz';
+$::proofers{'117'}[4] = 'rmarabini';
+$::proofers{'117'}[5] = 'ellinora';
+$::proofers{'118'}[1] = 'Golfino';
+$::proofers{'118'}[2] = 'escalera2';
+$::proofers{'118'}[3] = 'bfarenaz';
+$::proofers{'118'}[4] = 'rmarabini';
+$::proofers{'118'}[5] = 'ellinora';
+$::proofers{'119'}[1] = 'Golfino';
+$::proofers{'119'}[2] = 'escalera2';
+$::proofers{'119'}[3] = 'bfarenaz';
+$::proofers{'119'}[4] = 'rmarabini';
+$::proofers{'119'}[5] = 'ellinora';
+$::proofers{'120'}[1] = 'Golfino';
+$::proofers{'120'}[2] = 'escalera2';
+$::proofers{'120'}[3] = 'bfarenaz';
+$::proofers{'120'}[4] = 'rmarabini';
+$::proofers{'120'}[5] = 'ellinora';
+$::proofers{'121'}[1] = 'Golfino';
+$::proofers{'121'}[2] = 'escalera2';
+$::proofers{'121'}[3] = 'bfarenaz';
+$::proofers{'121'}[4] = 'rmarabini';
+$::proofers{'121'}[5] = 'ellinora';
+$::proofers{'122'}[1] = 'Golfino';
+$::proofers{'122'}[2] = 'escalera2';
+$::proofers{'122'}[3] = 'bfarenaz';
+$::proofers{'122'}[4] = 'rmarabini';
+$::proofers{'122'}[5] = 'ellinora';
+$::proofers{'123'}[1] = 'Golfino';
+$::proofers{'123'}[2] = 'escalera2';
+$::proofers{'123'}[3] = 'bfarenaz';
+$::proofers{'123'}[4] = 'rmarabini';
+$::proofers{'123'}[5] = 'ellinora';
+$::proofers{'124'}[1] = 'Golfino';
+$::proofers{'124'}[2] = 'escalera2';
+$::proofers{'124'}[3] = 'bfarenaz';
+$::proofers{'124'}[4] = 'rmarabini';
+$::proofers{'124'}[5] = 'ellinora';
+$::proofers{'125'}[1] = 'Golfino';
+$::proofers{'125'}[2] = 'escalera2';
+$::proofers{'125'}[3] = 'bfarenaz';
+$::proofers{'125'}[4] = 'rmarabini';
+$::proofers{'125'}[5] = 'ellinora';
+$::proofers{'126'}[1] = 'Golfino';
+$::proofers{'126'}[2] = 'escalera2';
+$::proofers{'126'}[3] = 'bfarenaz';
+$::proofers{'126'}[4] = 'rmarabini';
+$::proofers{'126'}[5] = 'ellinora';
+$::proofers{'127'}[1] = 'Golfino';
+$::proofers{'127'}[2] = 'escalera2';
+$::proofers{'127'}[3] = 'bfarenaz';
+$::proofers{'127'}[4] = 'rmarabini';
+$::proofers{'127'}[5] = 'ellinora';
+$::proofers{'128'}[1] = 'rmarabini';
+$::proofers{'128'}[2] = 'escalera2';
+$::proofers{'128'}[3] = 'catalino';
+$::proofers{'128'}[4] = 'bfarenaz';
+$::proofers{'128'}[5] = 'ellinora';
+$::proofers{'129'}[1] = 'escalera2';
+$::proofers{'129'}[2] = 'F1';
+$::proofers{'129'}[3] = 'catalino';
+$::proofers{'129'}[4] = 'bfarenaz';
+$::proofers{'129'}[5] = 'ellinora';
+$::proofers{'130'}[1] = 'rmarabini';
+$::proofers{'130'}[2] = 'F1';
+$::proofers{'130'}[3] = 'catalino';
+$::proofers{'130'}[4] = 'bfarenaz';
+$::proofers{'130'}[5] = 'ellinora';
+$::proofers{'131'}[1] = 'catalino';
+$::proofers{'131'}[2] = 'F1';
+$::proofers{'131'}[3] = 'catalino';
+$::proofers{'131'}[4] = 'bfarenaz';
+$::proofers{'131'}[5] = 'ellinora';
+$::proofers{'132'}[1] = 'bfarenaz';
+$::proofers{'132'}[2] = 'F1';
+$::proofers{'132'}[3] = 'catalino';
+$::proofers{'132'}[4] = 'bfarenaz';
+$::proofers{'132'}[5] = 'ellinora';
+$::proofers{'133'}[1] = 'carlosrc';
+$::proofers{'133'}[2] = 'F1';
+$::proofers{'133'}[3] = 'catalino';
+$::proofers{'133'}[4] = 'bfarenaz';
+$::proofers{'133'}[5] = 'ellinora';
+$::proofers{'134'}[1] = 'Golfino';
+$::proofers{'134'}[2] = 'F1';
+$::proofers{'134'}[3] = 'catalino';
+$::proofers{'134'}[4] = 'bfarenaz';
+$::proofers{'134'}[5] = 'ellinora';
+$::proofers{'135'}[1] = 'Golfino';
+$::proofers{'135'}[2] = 'F1';
+$::proofers{'135'}[3] = 'catalino';
+$::proofers{'135'}[4] = 'bfarenaz';
+$::proofers{'135'}[5] = 'ellinora';
+$::proofers{'136'}[1] = 'Golfino';
+$::proofers{'136'}[2] = 'rpajares';
+$::proofers{'136'}[3] = 'bfarenaz';
+$::proofers{'136'}[4] = 'rmarabini';
+$::proofers{'136'}[5] = 'ellinora';
+$::proofers{'137'}[1] = 'Golfino';
+$::proofers{'137'}[2] = 'rpajares';
+$::proofers{'137'}[3] = 'bfarenaz';
+$::proofers{'137'}[4] = 'rmarabini';
+$::proofers{'137'}[5] = 'ellinora';
+$::proofers{'138'}[1] = 'Golfino';
+$::proofers{'138'}[2] = 'rpajares';
+$::proofers{'138'}[3] = 'bfarenaz';
+$::proofers{'138'}[4] = 'rmarabini';
+$::proofers{'138'}[5] = 'ellinora';
+$::proofers{'139'}[1] = 'Golfino';
+$::proofers{'139'}[2] = 'rpajares';
+$::proofers{'139'}[3] = 'bfarenaz';
+$::proofers{'139'}[4] = 'rmarabini';
+$::proofers{'139'}[5] = 'ellinora';
+$::proofers{'140'}[1] = 'Golfino';
+$::proofers{'140'}[2] = 'rpajares';
+$::proofers{'140'}[3] = 'bfarenaz';
+$::proofers{'140'}[4] = 'rmarabini';
+$::proofers{'140'}[5] = 'ellinora';
+$::proofers{'141'}[1] = 'Golfino';
+$::proofers{'141'}[2] = 'rpajares';
+$::proofers{'141'}[3] = 'bfarenaz';
+$::proofers{'141'}[4] = 'rmarabini';
+$::proofers{'141'}[5] = 'ellinora';
+$::proofers{'142'}[1] = 'Golfino';
+$::proofers{'142'}[2] = 'rpajares';
+$::proofers{'142'}[3] = 'bfarenaz';
+$::proofers{'142'}[4] = 'rmarabini';
+$::proofers{'142'}[5] = 'ellinora';
+$::proofers{'143'}[1] = 'Golfino';
+$::proofers{'143'}[2] = 'rpajares';
+$::proofers{'143'}[3] = 'bfarenaz';
+$::proofers{'143'}[4] = 'rmarabini';
+$::proofers{'143'}[5] = 'ellinora';
+$::proofers{'144'}[1] = 'Golfino';
+$::proofers{'144'}[2] = 'rpajares';
+$::proofers{'144'}[3] = 'bfarenaz';
+$::proofers{'144'}[4] = 'rmarabini';
+$::proofers{'144'}[5] = 'ellinora';
+$::proofers{'145'}[1] = 'Golfino';
+$::proofers{'145'}[2] = 'jpratramon';
+$::proofers{'145'}[3] = 'bfarenaz';
+$::proofers{'145'}[4] = 'rmarabini';
+$::proofers{'145'}[5] = 'ellinora';
+$::proofers{'146'}[1] = 'Golfino';
+$::proofers{'146'}[2] = 'rpajares';
+$::proofers{'146'}[3] = 'bfarenaz';
+$::proofers{'146'}[4] = 'rmarabini';
+$::proofers{'146'}[5] = 'ellinora';
+$::proofers{'147'}[1] = 'Golfino';
+$::proofers{'147'}[2] = 'rpajares';
+$::proofers{'147'}[3] = 'bfarenaz';
+$::proofers{'147'}[4] = 'rmarabini';
+$::proofers{'147'}[5] = 'ellinora';
+$::proofers{'148'}[1] = 'Golfino';
+$::proofers{'148'}[2] = 'rpajares';
+$::proofers{'148'}[3] = 'catalino';
+$::proofers{'148'}[4] = 'bfarenaz';
+$::proofers{'148'}[5] = 'ellinora';
+$::proofers{'149'}[1] = 'jpratramon';
+$::proofers{'149'}[2] = 'rpajares';
+$::proofers{'149'}[3] = 'catalino';
+$::proofers{'149'}[4] = 'bfarenaz';
+$::proofers{'149'}[5] = 'ellinora';
+$::proofers{'150'}[1] = 'carlosrc';
+$::proofers{'150'}[2] = 'rpajares';
+$::proofers{'150'}[3] = 'catalino';
+$::proofers{'150'}[4] = 'bfarenaz';
+$::proofers{'150'}[5] = 'ellinora';
+$::proofers{'151'}[1] = 'rmarabini';
+$::proofers{'151'}[2] = 'rpajares';
+$::proofers{'151'}[3] = 'catalino';
+$::proofers{'151'}[4] = 'bfarenaz';
+$::proofers{'151'}[5] = 'ellinora';
+$::proofers{'152'}[1] = 'catalino';
+$::proofers{'152'}[2] = 'rpajares';
+$::proofers{'152'}[3] = 'catalino';
+$::proofers{'152'}[4] = 'bfarenaz';
+$::proofers{'152'}[5] = 'ellinora';
+$::proofers{'153'}[1] = 'rmarabini';
+$::proofers{'153'}[2] = 'rpajares';
+$::proofers{'153'}[3] = 'catalino';
+$::proofers{'153'}[4] = 'rmarabini';
+$::proofers{'153'}[5] = 'ellinora';
+$::proofers{'154'}[1] = 'escalera2';
+$::proofers{'154'}[2] = 'rpajares';
+$::proofers{'154'}[3] = 'catalino';
+$::proofers{'154'}[4] = 'rmarabini';
+$::proofers{'154'}[5] = 'ellinora';
+$::proofers{'155'}[1] = 'escalera2';
+$::proofers{'155'}[2] = 'rpajares';
+$::proofers{'155'}[3] = 'catalino';
+$::proofers{'155'}[4] = 'rmarabini';
+$::proofers{'155'}[5] = 'ellinora';
+$::proofers{'156'}[1] = 'escalera2';
+$::proofers{'156'}[2] = 'rpajares';
+$::proofers{'156'}[3] = 'bfarenaz';
+$::proofers{'156'}[4] = 'rmarabini';
+$::proofers{'156'}[5] = 'ellinora';
+$::proofers{'157'}[1] = 'escalera2';
+$::proofers{'157'}[2] = 'rpajares';
+$::proofers{'157'}[3] = 'bfarenaz';
+$::proofers{'157'}[4] = 'rmarabini';
+$::proofers{'157'}[5] = 'ellinora';
+$::proofers{'158'}[1] = 'escalera2';
+$::proofers{'158'}[2] = 'rpajares';
+$::proofers{'158'}[3] = 'catalino';
+$::proofers{'158'}[4] = 'rmarabini';
+$::proofers{'158'}[5] = 'ellinora';
+$::proofers{'159'}[1] = 'escalera2';
+$::proofers{'159'}[2] = 'rpajares';
+$::proofers{'159'}[3] = 'catalino';
+$::proofers{'159'}[4] = 'Julio Mendoza';
+$::proofers{'159'}[5] = 'ellinora';
+$::proofers{'160'}[1] = 'escalera2';
+$::proofers{'160'}[2] = 'rpajares';
+$::proofers{'160'}[3] = 'catalino';
+$::proofers{'160'}[4] = 'Julio Mendoza';
+$::proofers{'160'}[5] = 'ellinora';
+$::proofers{'161'}[1] = 'escalera2';
+$::proofers{'161'}[2] = 'rpajares';
+$::proofers{'161'}[3] = 'catalino';
+$::proofers{'161'}[4] = 'Julio Mendoza';
+$::proofers{'161'}[5] = 'ellinora';
+$::proofers{'162'}[1] = 'escalera2';
+$::proofers{'162'}[2] = 'Tantalo';
+$::proofers{'162'}[3] = 'catalino';
+$::proofers{'162'}[4] = 'rmarabini';
+$::proofers{'162'}[5] = 'ellinora';
+$::proofers{'163'}[1] = 'escalera2';
+$::proofers{'163'}[2] = 'Tantalo';
+$::proofers{'163'}[3] = 'catalino';
+$::proofers{'163'}[4] = 'rmarabini';
+$::proofers{'163'}[5] = 'ellinora';
+$::proofers{'164'}[1] = 'escalera2';
+$::proofers{'164'}[2] = 'Tantalo';
+$::proofers{'164'}[3] = 'catalino';
+$::proofers{'164'}[4] = 'rmarabini';
+$::proofers{'164'}[5] = 'ellinora';
+$::proofers{'165'}[1] = 'escalera2';
+$::proofers{'165'}[2] = 'Tantalo';
+$::proofers{'165'}[3] = 'catalino';
+$::proofers{'165'}[4] = 'rmarabini';
+$::proofers{'165'}[5] = 'ellinora';
+$::proofers{'166'}[1] = 'escalera2';
+$::proofers{'166'}[2] = 'Tantalo';
+$::proofers{'166'}[3] = 'catalino';
+$::proofers{'166'}[4] = 'rmarabini';
+$::proofers{'166'}[5] = 'ellinora';
+$::proofers{'167'}[1] = 'escalera2';
+$::proofers{'167'}[2] = 'Tantalo';
+$::proofers{'167'}[3] = 'catalino';
+$::proofers{'167'}[4] = 'rmarabini';
+$::proofers{'167'}[5] = 'ellinora';
+$::proofers{'168'}[1] = 'escalera2';
+$::proofers{'168'}[2] = 'Tantalo';
+$::proofers{'168'}[3] = 'catalino';
+$::proofers{'168'}[4] = 'rmarabini';
+$::proofers{'168'}[5] = 'ellinora';
+$::proofers{'169'}[1] = 'escalera2';
+$::proofers{'169'}[2] = 'Tantalo';
+$::proofers{'169'}[3] = 'catalino';
+$::proofers{'169'}[4] = 'rmarabini';
+$::proofers{'169'}[5] = 'ellinora';
+$::proofers{'170'}[1] = 'escalera2';
+$::proofers{'170'}[2] = 'Tantalo';
+$::proofers{'170'}[3] = 'catalino';
+$::proofers{'170'}[4] = 'rmarabini';
+$::proofers{'170'}[5] = 'ellinora';
+$::proofers{'171'}[1] = 'escalera2';
+$::proofers{'171'}[2] = 'Tantalo';
+$::proofers{'171'}[3] = 'catalino';
+$::proofers{'171'}[4] = 'rmarabini';
+$::proofers{'171'}[5] = 'ellinora';
+$::proofers{'172'}[1] = 'indalikito';
+$::proofers{'172'}[2] = 'Tantalo';
+$::proofers{'172'}[3] = 'catalino';
+$::proofers{'172'}[4] = 'rmarabini';
+$::proofers{'172'}[5] = 'ellinora';
+$::proofers{'173'}[1] = 'indalikito';
+$::proofers{'173'}[2] = 'escalera2';
+$::proofers{'173'}[3] = 'catalino';
+$::proofers{'173'}[4] = 'rmarabini';
+$::proofers{'173'}[5] = 'ellinora';
+$::proofers{'174'}[1] = 'indalikito';
+$::proofers{'174'}[2] = 'escalera2';
+$::proofers{'174'}[3] = 'catalino';
+$::proofers{'174'}[4] = 'rmarabini';
+$::proofers{'174'}[5] = 'ellinora';
+$::proofers{'175'}[1] = 'indalikito';
+$::proofers{'175'}[2] = 'escalera2';
+$::proofers{'175'}[3] = 'catalino';
+$::proofers{'175'}[4] = 'rmarabini';
+$::proofers{'175'}[5] = 'ellinora';
+$::proofers{'176'}[1] = 'catalino';
+$::proofers{'176'}[2] = 'escalera2';
+$::proofers{'176'}[3] = 'catalino';
+$::proofers{'176'}[4] = 'rmarabini';
+$::proofers{'176'}[5] = 'ellinora';
+$::proofers{'177'}[1] = 'jpratramon';
+$::proofers{'177'}[2] = 'escalera2';
+$::proofers{'177'}[3] = 'catalino';
+$::proofers{'177'}[4] = 'rmarabini';
+$::proofers{'177'}[5] = 'ellinora';
+$::proofers{'178'}[1] = 'catalino';
+$::proofers{'178'}[2] = 'escalera2';
+$::proofers{'178'}[3] = 'catalino';
+$::proofers{'178'}[4] = 'rmarabini';
+$::proofers{'178'}[5] = 'ellinora';
+$::proofers{'179'}[1] = 'catalino';
+$::proofers{'179'}[2] = 'escalera2';
+$::proofers{'179'}[3] = 'catalino';
+$::proofers{'179'}[4] = 'rmarabini';
+$::proofers{'179'}[5] = 'ellinora';
+$::proofers{'180'}[1] = 'rmarabini';
+$::proofers{'180'}[2] = 'escalera2';
+$::proofers{'180'}[3] = 'catalino';
+$::proofers{'180'}[4] = 'rmarabini';
+$::proofers{'180'}[5] = 'ellinora';
+$::proofers{'181'}[1] = 'escalera2';
+$::proofers{'181'}[2] = 'jpratramon';
+$::proofers{'181'}[3] = 'catalino';
+$::proofers{'181'}[4] = 'rmarabini';
+$::proofers{'181'}[5] = 'ellinora';
+$::proofers{'182'}[1] = 'escalera2';
+$::proofers{'182'}[2] = 'Tantalo';
+$::proofers{'182'}[3] = 'catalino';
+$::proofers{'182'}[4] = 'rmarabini';
+$::proofers{'182'}[5] = 'ellinora';
+$::proofers{'183'}[1] = 'escalera2';
+$::proofers{'183'}[2] = 'Tantalo';
+$::proofers{'183'}[3] = 'bfarenaz';
+$::proofers{'183'}[4] = 'rmarabini';
+$::proofers{'183'}[5] = 'Close@Hand';
+$::proofers{'184'}[1] = 'escalera2';
+$::proofers{'184'}[2] = 'Tantalo';
+$::proofers{'184'}[3] = 'catalino';
+$::proofers{'184'}[4] = 'rmarabini';
+$::proofers{'184'}[5] = 'Close@Hand';
+$::proofers{'185'}[1] = 'escalera2';
+$::proofers{'185'}[2] = 'Tantalo';
+$::proofers{'185'}[3] = 'catalino';
+$::proofers{'185'}[4] = 'rmarabini';
+$::proofers{'185'}[5] = 'Close@Hand';
+$::proofers{'186'}[1] = 'escalera2';
+$::proofers{'186'}[2] = 'Tantalo';
+$::proofers{'186'}[3] = 'catalino';
+$::proofers{'186'}[4] = 'rmarabini';
+$::proofers{'186'}[5] = 'Close@Hand';
+$::proofers{'187'}[1] = 'escalera2';
+$::proofers{'187'}[2] = 'bfarenaz';
+$::proofers{'187'}[3] = 'catalino';
+$::proofers{'187'}[4] = 'rmarabini';
+$::proofers{'187'}[5] = 'Close@Hand';
+$::proofers{'188'}[1] = 'escalera2';
+$::proofers{'188'}[2] = 'jpratramon';
+$::proofers{'188'}[3] = 'catalino';
+$::proofers{'188'}[4] = 'rmarabini';
+$::proofers{'188'}[5] = 'Close@Hand';
+$::proofers{'189'}[1] = 'escalera2';
+$::proofers{'189'}[2] = 'rpajares';
+$::proofers{'189'}[3] = 'catalino';
+$::proofers{'189'}[4] = 'rmarabini';
+$::proofers{'189'}[5] = 'Close@Hand';
+$::proofers{'190'}[1] = 'escalera2';
+$::proofers{'190'}[2] = 'rpajares';
+$::proofers{'190'}[3] = 'catalino';
+$::proofers{'190'}[4] = 'rmarabini';
+$::proofers{'190'}[5] = 'Close@Hand';
+$::proofers{'191'}[1] = 'escalera2';
+$::proofers{'191'}[2] = 'rpajares';
+$::proofers{'191'}[3] = 'catalino';
+$::proofers{'191'}[4] = 'rmarabini';
+$::proofers{'191'}[5] = 'Close@Hand';
+$::proofers{'192'}[1] = 'escalera2';
+$::proofers{'192'}[2] = 'rpajares';
+$::proofers{'192'}[3] = 'catalino';
+$::proofers{'192'}[4] = 'Julio Mendoza';
+$::proofers{'192'}[5] = 'ellinora';
+$::proofers{'193'}[1] = 'carlosrc';
+$::proofers{'193'}[2] = 'escalera2';
+$::proofers{'193'}[3] = 'catalino';
+$::proofers{'193'}[4] = 'Julio Mendoza';
+$::proofers{'193'}[5] = 'ellinora';
+$::proofers{'194'}[1] = 'indalikito';
+$::proofers{'194'}[2] = 'escalera2';
+$::proofers{'194'}[3] = 'catalino';
+$::proofers{'194'}[4] = 'Julio Mendoza';
+$::proofers{'194'}[5] = 'ellinora';
+$::proofers{'195'}[1] = 'indalikito';
+$::proofers{'195'}[2] = 'escalera2';
+$::proofers{'195'}[3] = 'catalino';
+$::proofers{'195'}[4] = 'rmarabini';
+$::proofers{'195'}[5] = 'ellinora';
+$::proofers{'196'}[1] = 'indalikito';
+$::proofers{'196'}[2] = 'escalera2';
+$::proofers{'196'}[3] = 'catalino';
+$::proofers{'196'}[4] = 'rmarabini';
+$::proofers{'196'}[5] = 'ellinora';
+$::proofers{'197'}[1] = 'jpratramon';
+$::proofers{'197'}[2] = 'escalera2';
+$::proofers{'197'}[3] = 'catalino';
+$::proofers{'197'}[4] = 'rmarabini';
+$::proofers{'197'}[5] = 'ellinora';
+$::proofers{'198'}[1] = 'jpratramon';
+$::proofers{'198'}[2] = 'escalera2';
+$::proofers{'198'}[3] = 'catalino';
+$::proofers{'198'}[4] = 'rmarabini';
+$::proofers{'198'}[5] = 'ellinora';
+$::proofers{'199'}[1] = 'catalino';
+$::proofers{'199'}[2] = 'escalera2';
+$::proofers{'199'}[3] = 'catalino';
+$::proofers{'199'}[4] = 'rmarabini';
+$::proofers{'199'}[5] = 'ellinora';
+$::proofers{'200'}[1] = 'bfarenaz';
+$::proofers{'200'}[2] = 'escalera2';
+$::proofers{'200'}[3] = 'catalino';
+$::proofers{'200'}[4] = 'rmarabini';
+$::proofers{'200'}[5] = 'ellinora';
+$::proofers{'201'}[1] = 'bfarenaz';
+$::proofers{'201'}[2] = 'escalera2';
+$::proofers{'201'}[3] = 'catalino';
+$::proofers{'201'}[4] = 'rmarabini';
+$::proofers{'201'}[5] = 'ellinora';
+$::proofers{'202'}[1] = 'rmarabini';
+$::proofers{'202'}[2] = 'escalera2';
+$::proofers{'202'}[3] = 'catalino';
+$::proofers{'202'}[4] = 'rmarabini';
+$::proofers{'202'}[5] = 'ellinora';
+$::proofers{'203'}[1] = 'carlosrc';
+$::proofers{'203'}[2] = 'escalera2';
+$::proofers{'203'}[3] = 'catalino';
+$::proofers{'203'}[4] = 'rmarabini';
+$::proofers{'203'}[5] = 'ellinora';
+$::proofers{'204'}[1] = 'escalera2';
+$::proofers{'204'}[2] = 'rpajares';
+$::proofers{'204'}[3] = 'catalino';
+$::proofers{'204'}[4] = 'rmarabini';
+$::proofers{'204'}[5] = 'ellinora';
+$::proofers{'205'}[1] = 'escalera2';
+$::proofers{'205'}[2] = 'rpajares';
+$::proofers{'205'}[3] = 'bfarenaz';
+$::proofers{'205'}[4] = 'rmarabini';
+$::proofers{'205'}[5] = 'ellinora';
+$::proofers{'206'}[1] = 'escalera2';
+$::proofers{'206'}[2] = 'rpajares';
+$::proofers{'206'}[3] = 'bfarenaz';
+$::proofers{'206'}[4] = 'rmarabini';
+$::proofers{'206'}[5] = 'ellinora';
+$::proofers{'207'}[1] = 'escalera2';
+$::proofers{'207'}[2] = 'rpajares';
+$::proofers{'207'}[3] = 'bfarenaz';
+$::proofers{'207'}[4] = 'rmarabini';
+$::proofers{'207'}[5] = 'ellinora';
+$::proofers{'208'}[1] = 'escalera2';
+$::proofers{'208'}[2] = 'rpajares';
+$::proofers{'208'}[3] = 'catalino';
+$::proofers{'208'}[4] = 'rmarabini';
+$::proofers{'208'}[5] = 'ellinora';
+$::proofers{'209'}[1] = 'escalera2';
+$::proofers{'209'}[2] = 'rpajares';
+$::proofers{'209'}[3] = 'catalino';
+$::proofers{'209'}[4] = 'rmarabini';
+$::proofers{'209'}[5] = 'ellinora';
+$::proofers{'210'}[1] = 'escalera2';
+$::proofers{'210'}[2] = 'Tantalo';
+$::proofers{'210'}[3] = 'bfarenaz';
+$::proofers{'210'}[4] = 'rmarabini';
+$::proofers{'210'}[5] = 'ellinora';
+$::proofers{'211'}[1] = 'escalera2';
+$::proofers{'211'}[2] = 'Tantalo';
+$::proofers{'211'}[3] = 'catalino';
+$::proofers{'211'}[4] = 'rmarabini';
+$::proofers{'211'}[5] = 'ellinora';
+$::proofers{'212'}[1] = 'escalera2';
+$::proofers{'212'}[2] = 'Tantalo';
+$::proofers{'212'}[3] = 'catalino';
+$::proofers{'212'}[4] = 'rmarabini';
+$::proofers{'212'}[5] = 'ellinora';
+$::proofers{'213'}[1] = 'escalera2';
+$::proofers{'213'}[2] = 'Tantalo';
+$::proofers{'213'}[3] = 'catalino';
+$::proofers{'213'}[4] = 'rmarabini';
+$::proofers{'213'}[5] = 'ellinora';
+$::proofers{'214'}[1] = 'escalera2';
+$::proofers{'214'}[2] = 'Tantalo';
+$::proofers{'214'}[3] = 'catalino';
+$::proofers{'214'}[4] = 'rmarabini';
+$::proofers{'214'}[5] = 'ellinora';
+$::proofers{'215'}[1] = 'escalera2';
+$::proofers{'215'}[2] = 'Tantalo';
+$::proofers{'215'}[3] = 'catalino';
+$::proofers{'215'}[4] = 'rmarabini';
+$::proofers{'215'}[5] = 'ellinora';
+$::proofers{'216'}[1] = 'escalera2';
+$::proofers{'216'}[2] = 'Tantalo';
+$::proofers{'216'}[3] = 'bfarenaz';
+$::proofers{'216'}[4] = 'rmarabini';
+$::proofers{'216'}[5] = 'ellinora';
+$::proofers{'217'}[1] = 'escalera2';
+$::proofers{'217'}[2] = 'Tantalo';
+$::proofers{'217'}[3] = 'bfarenaz';
+$::proofers{'217'}[4] = 'rmarabini';
+$::proofers{'217'}[5] = 'ellinora';
+$::proofers{'218'}[1] = 'escalera2';
+$::proofers{'218'}[2] = 'Tantalo';
+$::proofers{'218'}[3] = 'catalino';
+$::proofers{'218'}[4] = 'rmarabini';
+$::proofers{'218'}[5] = 'ellinora';
+$::proofers{'219'}[1] = 'escalera2';
+$::proofers{'219'}[2] = 'bfarenaz';
+$::proofers{'219'}[3] = 'catalino';
+$::proofers{'219'}[4] = 'rmarabini';
+$::proofers{'219'}[5] = 'ellinora';
+$::proofers{'220'}[1] = 'escalera2';
+$::proofers{'220'}[2] = 'Tantalo';
+$::proofers{'220'}[3] = 'catalino';
+$::proofers{'220'}[4] = 'rmarabini';
+$::proofers{'220'}[5] = 'ellinora';
+$::proofers{'221'}[1] = 'escalera2';
+$::proofers{'221'}[2] = 'Tantalo';
+$::proofers{'221'}[3] = 'catalino';
+$::proofers{'221'}[4] = 'rmarabini';
+$::proofers{'221'}[5] = 'ellinora';
+$::proofers{'222'}[1] = 'escalera2';
+$::proofers{'222'}[2] = 'Tantalo';
+$::proofers{'222'}[3] = 'catalino';
+$::proofers{'222'}[4] = 'rmarabini';
+$::proofers{'222'}[5] = 'ellinora';
+$::proofers{'223'}[1] = 'escalera2';
+$::proofers{'223'}[2] = 'Tantalo';
+$::proofers{'223'}[3] = 'catalino';
+$::proofers{'223'}[4] = 'rmarabini';
+$::proofers{'223'}[5] = 'ellinora';
+$::proofers{'224'}[1] = 'escalera2';
+$::proofers{'224'}[2] = 'Tantalo';
+$::proofers{'224'}[3] = 'catalino';
+$::proofers{'224'}[4] = 'rmarabini';
+$::proofers{'224'}[5] = 'ellinora';
+$::proofers{'225'}[1] = 'jpratramon';
+$::proofers{'225'}[2] = 'escalera2';
+$::proofers{'225'}[3] = 'catalino';
+$::proofers{'225'}[4] = 'rmarabini';
+$::proofers{'225'}[5] = 'ellinora';
+$::proofers{'226'}[1] = 'rmarabini';
+$::proofers{'226'}[2] = 'escalera2';
+$::proofers{'226'}[3] = 'catalino';
+$::proofers{'226'}[4] = 'rmarabini';
+$::proofers{'226'}[5] = 'ellinora';
+$::proofers{'227'}[1] = 'escalera2';
+$::proofers{'227'}[2] = 'Tantalo';
+$::proofers{'227'}[3] = 'catalino';
+$::proofers{'227'}[4] = 'rmarabini';
+$::proofers{'227'}[5] = 'ellinora';
+$::proofers{'228'}[1] = 'escalera2';
+$::proofers{'228'}[2] = 'Tantalo';
+$::proofers{'228'}[3] = 'catalino';
+$::proofers{'228'}[4] = 'rmarabini';
+$::proofers{'228'}[5] = 'ellinora';
+$::proofers{'229'}[1] = 'escalera2';
+$::proofers{'229'}[2] = 'jpratramon';
+$::proofers{'229'}[3] = 'catalino';
+$::proofers{'229'}[4] = 'rmarabini';
+$::proofers{'229'}[5] = 'ellinora';
+$::proofers{'230'}[1] = 'escalera2';
+$::proofers{'230'}[2] = 'jpratramon';
+$::proofers{'230'}[3] = 'catalino';
+$::proofers{'230'}[4] = 'rmarabini';
+$::proofers{'230'}[5] = 'ellinora';
+$::proofers{'231'}[1] = 'escalera2';
+$::proofers{'231'}[2] = 'Tantalo';
+$::proofers{'231'}[3] = 'catalino';
+$::proofers{'231'}[4] = 'rmarabini';
+$::proofers{'231'}[5] = 'ellinora';
+$::proofers{'232'}[1] = 'jpratramon';
+$::proofers{'232'}[2] = 'escalera2';
+$::proofers{'232'}[3] = 'catalino';
+$::proofers{'232'}[4] = 'rmarabini';
+$::proofers{'232'}[5] = 'ellinora';
+$::proofers{'233'}[1] = 'bfarenaz';
+$::proofers{'233'}[2] = 'escalera2';
+$::proofers{'233'}[3] = 'catalino';
+$::proofers{'233'}[4] = 'rmarabini';
+$::proofers{'233'}[5] = 'ellinora';
+$::proofers{'234'}[1] = 'catalino';
+$::proofers{'234'}[2] = 'escalera2';
+$::proofers{'234'}[3] = 'catalino';
+$::proofers{'234'}[4] = 'rmarabini';
+$::proofers{'234'}[5] = 'ellinora';
+$::proofers{'235'}[1] = 'bfarenaz';
+$::proofers{'235'}[2] = 'escalera2';
+$::proofers{'235'}[3] = 'catalino';
+$::proofers{'235'}[4] = 'rmarabini';
+$::proofers{'235'}[5] = 'ellinora';
+$::proofers{'236'}[1] = 'AndrewH';
+$::proofers{'236'}[2] = 'escalera2';
+$::proofers{'236'}[3] = 'catalino';
+$::proofers{'236'}[4] = 'rmarabini';
+$::proofers{'236'}[5] = 'ellinora';
+$::proofers{'237'}[1] = 'carlosrc';
+$::proofers{'237'}[2] = 'escalera2';
+$::proofers{'237'}[3] = 'catalino';
+$::proofers{'237'}[4] = 'rmarabini';
+$::proofers{'237'}[5] = 'ellinora';
+$::proofers{'238'}[1] = 'bfarenaz';
+$::proofers{'238'}[2] = 'escalera2';
+$::proofers{'238'}[3] = 'catalino';
+$::proofers{'238'}[4] = 'rmarabini';
+$::proofers{'238'}[5] = 'ellinora';
+$::proofers{'239'}[1] = 'escalera2';
+$::proofers{'239'}[2] = 'Tantalo';
+$::proofers{'239'}[3] = 'catalino';
+$::proofers{'239'}[4] = 'rmarabini';
+$::proofers{'239'}[5] = 'ellinora';
+$::proofers{'240'}[1] = 'escalera2';
+$::proofers{'240'}[2] = 'Tantalo';
+$::proofers{'240'}[3] = 'catalino';
+$::proofers{'240'}[4] = 'rmarabini';
+$::proofers{'240'}[5] = 'ellinora';
+$::proofers{'241'}[1] = 'escalera2';
+$::proofers{'241'}[2] = 'Tantalo';
+$::proofers{'241'}[3] = 'catalino';
+$::proofers{'241'}[4] = 'rmarabini';
+$::proofers{'241'}[5] = 'ellinora';
+$::proofers{'242'}[1] = 'escalera2';
+$::proofers{'242'}[2] = 'bfarenaz';
+$::proofers{'242'}[3] = 'catalino';
+$::proofers{'242'}[4] = 'rmarabini';
+$::proofers{'242'}[5] = 'ellinora';
+$::proofers{'243'}[1] = 'escalera2';
+$::proofers{'243'}[2] = 'rpajares';
+$::proofers{'243'}[3] = 'catalino';
+$::proofers{'243'}[4] = 'rmarabini';
+$::proofers{'243'}[5] = 'ellinora';
+$::proofers{'244'}[1] = 'escalera2';
+$::proofers{'244'}[2] = 'rpajares';
+$::proofers{'244'}[3] = 'catalino';
+$::proofers{'244'}[4] = 'rmarabini';
+$::proofers{'244'}[5] = 'ellinora';
+$::proofers{'245'}[1] = 'escalera2';
+$::proofers{'245'}[2] = 'rpajares';
+$::proofers{'245'}[3] = 'catalino';
+$::proofers{'245'}[4] = 'rmarabini';
+$::proofers{'245'}[5] = 'ellinora';
+$::proofers{'246'}[1] = 'escalera2';
+$::proofers{'246'}[2] = 'rpajares';
+$::proofers{'246'}[3] = 'catalino';
+$::proofers{'246'}[4] = 'rmarabini';
+$::proofers{'246'}[5] = 'ellinora';
+$::proofers{'247'}[1] = 'escalera2';
+$::proofers{'247'}[2] = 'rpajares';
+$::proofers{'247'}[3] = 'catalino';
+$::proofers{'247'}[4] = 'rmarabini';
+$::proofers{'247'}[5] = 'ellinora';
+$::proofers{'248'}[1] = 'escalera2';
+$::proofers{'248'}[2] = 'rpajares';
+$::proofers{'248'}[3] = 'catalino';
+$::proofers{'248'}[4] = 'rmarabini';
+$::proofers{'248'}[5] = 'ellinora';
+$::proofers{'249'}[1] = 'escalera2';
+$::proofers{'249'}[2] = 'rpajares';
+$::proofers{'249'}[3] = 'catalino';
+$::proofers{'249'}[4] = 'rmarabini';
+$::proofers{'249'}[5] = 'ellinora';
+$::proofers{'250'}[1] = 'escalera2';
+$::proofers{'250'}[2] = 'rpajares';
+$::proofers{'250'}[3] = 'catalino';
+$::proofers{'250'}[4] = 'rmarabini';
+$::proofers{'250'}[5] = 'ellinora';
+$::proofers{'251'}[1] = 'escalera2';
+$::proofers{'251'}[2] = 'rpajares';
+$::proofers{'251'}[3] = 'catalino';
+$::proofers{'251'}[4] = 'rmarabini';
+$::proofers{'251'}[5] = 'ellinora';
+$::proofers{'252'}[1] = 'escalera2';
+$::proofers{'252'}[2] = 'rpajares';
+$::proofers{'252'}[3] = 'catalino';
+$::proofers{'252'}[4] = 'rmarabini';
+$::proofers{'252'}[5] = 'ellinora';
+$::proofers{'253'}[1] = 'escalera2';
+$::proofers{'253'}[2] = 'rpajares';
+$::proofers{'253'}[3] = 'catalino';
+$::proofers{'253'}[4] = 'rmarabini';
+$::proofers{'253'}[5] = 'ellinora';
+$::proofers{'254'}[1] = 'escalera2';
+$::proofers{'254'}[2] = 'rpajares';
+$::proofers{'254'}[3] = 'catalino';
+$::proofers{'254'}[4] = 'rmarabini';
+$::proofers{'254'}[5] = 'ellinora';
+$::proofers{'255'}[1] = 'escalera2';
+$::proofers{'255'}[2] = 'rpajares';
+$::proofers{'255'}[3] = 'catalino';
+$::proofers{'255'}[4] = 'rmarabini';
+$::proofers{'255'}[5] = 'ellinora';
+$::proofers{'256'}[1] = 'escalera2';
+$::proofers{'256'}[2] = 'rpajares';
+$::proofers{'256'}[3] = 'catalino';
+$::proofers{'256'}[4] = 'rmarabini';
+$::proofers{'256'}[5] = 'ellinora';
+$::proofers{'257'}[1] = 'rmarabini';
+$::proofers{'257'}[2] = 'escalera2';
+$::proofers{'257'}[3] = 'catalino';
+$::proofers{'257'}[4] = 'rmarabini';
+$::proofers{'257'}[5] = 'ellinora';
+$::proofers{'258'}[1] = 'jpratramon';
+$::proofers{'258'}[2] = 'escalera2';
+$::proofers{'258'}[3] = 'catalino';
+$::proofers{'258'}[4] = 'rmarabini';
+$::proofers{'258'}[5] = 'ellinora';
+$::proofers{'259'}[1] = 'bfarenaz';
+$::proofers{'259'}[2] = 'escalera2';
+$::proofers{'259'}[3] = 'catalino';
+$::proofers{'259'}[4] = 'rmarabini';
+$::proofers{'259'}[5] = 'ellinora';
+$::proofers{'260'}[1] = 'escalera2';
+$::proofers{'260'}[2] = 'rpajares';
+$::proofers{'260'}[3] = 'catalino';
+$::proofers{'260'}[4] = 'rmarabini';
+$::proofers{'260'}[5] = 'ellinora';
+$::proofers{'261'}[1] = 'escalera2';
+$::proofers{'261'}[2] = 'rpajares';
+$::proofers{'261'}[3] = 'catalino';
+$::proofers{'261'}[4] = 'rmarabini';
+$::proofers{'261'}[5] = 'ellinora';
+$::proofers{'262'}[1] = 'escalera2';
+$::proofers{'262'}[2] = 'rpajares';
+$::proofers{'262'}[3] = 'catalino';
+$::proofers{'262'}[4] = 'Julio Mendoza';
+$::proofers{'262'}[5] = 'ellinora';
+$::proofers{'263'}[1] = 'escalera2';
+$::proofers{'263'}[2] = 'rpajares';
+$::proofers{'263'}[3] = 'catalino';
+$::proofers{'263'}[4] = 'bfarenaz';
+$::proofers{'263'}[5] = 'ellinora';
+$::proofers{'264'}[1] = 'escalera2';
+$::proofers{'264'}[2] = 'rpajares';
+$::proofers{'264'}[3] = 'catalino';
+$::proofers{'264'}[4] = 'bfarenaz';
+$::proofers{'264'}[5] = 'ellinora';
+$::proofers{'265'}[1] = 'escalera2';
+$::proofers{'265'}[2] = 'rpajares';
+$::proofers{'265'}[3] = 'catalino';
+$::proofers{'265'}[4] = 'rmarabini';
+$::proofers{'265'}[5] = 'ellinora';
+$::proofers{'266'}[1] = 'escalera2';
+$::proofers{'266'}[2] = 'rpajares';
+$::proofers{'266'}[3] = 'catalino';
+$::proofers{'266'}[4] = 'rmarabini';
+$::proofers{'266'}[5] = 'ellinora';
+$::proofers{'267'}[1] = 'escalera2';
+$::proofers{'267'}[2] = 'jpratramon';
+$::proofers{'267'}[3] = 'catalino';
+$::proofers{'267'}[4] = 'rmarabini';
+$::proofers{'267'}[5] = 'ellinora';
+$::proofers{'268'}[1] = 'escalera2';
+$::proofers{'268'}[2] = 'rpajares';
+$::proofers{'268'}[3] = 'catalino';
+$::proofers{'268'}[4] = 'rmarabini';
+$::proofers{'268'}[5] = 'ellinora';
+$::proofers{'269'}[1] = 'escalera2';
+$::proofers{'269'}[2] = 'rpajares';
+$::proofers{'269'}[3] = 'catalino';
+$::proofers{'269'}[4] = 'rmarabini';
+$::proofers{'269'}[5] = 'ellinora';
+$::proofers{'270'}[1] = 'escalera2';
+$::proofers{'270'}[2] = 'rpajares';
+$::proofers{'270'}[3] = 'catalino';
+$::proofers{'270'}[4] = 'rmarabini';
+$::proofers{'270'}[5] = 'ellinora';
+$::proofers{'271'}[1] = 'escalera2';
+$::proofers{'271'}[2] = 'rpajares';
+$::proofers{'271'}[3] = 'catalino';
+$::proofers{'271'}[4] = 'rmarabini';
+$::proofers{'271'}[5] = 'ellinora';
+$::proofers{'272'}[1] = 'escalera2';
+$::proofers{'272'}[2] = 'rpajares';
+$::proofers{'272'}[3] = 'catalino';
+$::proofers{'272'}[4] = 'rmarabini';
+$::proofers{'272'}[5] = 'ellinora';
+$::proofers{'273'}[1] = 'escalera2';
+$::proofers{'273'}[2] = 'Tantalo';
+$::proofers{'273'}[3] = 'bfarenaz';
+$::proofers{'273'}[4] = 'rmarabini';
+$::proofers{'273'}[5] = 'ellinora';
+$::proofers{'274'}[1] = 'escalera2';
+$::proofers{'274'}[2] = 'Tantalo';
+$::proofers{'274'}[3] = 'bfarenaz';
+$::proofers{'274'}[4] = 'rmarabini';
+$::proofers{'274'}[5] = 'ellinora';
+$::proofers{'275'}[1] = 'bfarenaz';
+$::proofers{'275'}[2] = 'escalera2';
+$::proofers{'275'}[3] = 'bfarenaz';
+$::proofers{'275'}[4] = 'rmarabini';
+$::proofers{'275'}[5] = 'ellinora';
+$::proofers{'276'}[1] = 'escalera2';
+$::proofers{'276'}[2] = 'Tantalo';
+$::proofers{'276'}[3] = 'catalino';
+$::proofers{'276'}[4] = 'rmarabini';
+$::proofers{'276'}[5] = 'ellinora';
+$::proofers{'277'}[1] = 'escalera2';
+$::proofers{'277'}[2] = 'Tantalo';
+$::proofers{'277'}[3] = 'catalino';
+$::proofers{'277'}[4] = 'rmarabini';
+$::proofers{'277'}[5] = 'ellinora';
+$::proofers{'278'}[1] = 'escalera2';
+$::proofers{'278'}[2] = 'Tantalo';
+$::proofers{'278'}[3] = 'catalino';
+$::proofers{'278'}[4] = 'rmarabini';
+$::proofers{'278'}[5] = 'ellinora';
+$::proofers{'279'}[1] = 'escalera2';
+$::proofers{'279'}[2] = 'Tantalo';
+$::proofers{'279'}[3] = 'catalino';
+$::proofers{'279'}[4] = 'rmarabini';
+$::proofers{'279'}[5] = 'ellinora';
+$::proofers{'280'}[1] = 'rmarabini';
+$::proofers{'280'}[2] = 'escalera2';
+$::proofers{'280'}[3] = 'catalino';
+$::proofers{'280'}[4] = 'rmarabini';
+$::proofers{'280'}[5] = 'ellinora';
+$::proofers{'281'}[1] = 'jpratramon';
+$::proofers{'281'}[2] = 'escalera2';
+$::proofers{'281'}[3] = 'catalino';
+$::proofers{'281'}[4] = 'rmarabini';
+$::proofers{'281'}[5] = 'ellinora';
+$::proofers{'282'}[1] = 'rmarabini';
+$::proofers{'282'}[2] = 'escalera2';
+$::proofers{'282'}[3] = 'catalino';
+$::proofers{'282'}[4] = 'rmarabini';
+$::proofers{'282'}[5] = 'ellinora';
+$::proofers{'283'}[1] = 'bfarenaz';
+$::proofers{'283'}[2] = 'escalera2';
+$::proofers{'283'}[3] = 'catalino';
+$::proofers{'283'}[4] = 'rmarabini';
+$::proofers{'283'}[5] = 'ellinora';
+$::proofers{'284'}[1] = 'escalera2';
+$::proofers{'284'}[2] = 'Tantalo';
+$::proofers{'284'}[3] = 'catalino';
+$::proofers{'284'}[4] = 'rmarabini';
+$::proofers{'284'}[5] = 'ellinora';
+$::proofers{'285'}[1] = 'escalera2';
+$::proofers{'285'}[2] = 'Tantalo';
+$::proofers{'285'}[3] = 'catalino';
+$::proofers{'285'}[4] = 'rmarabini';
+$::proofers{'285'}[5] = 'ellinora';
+$::proofers{'286'}[1] = 'escalera2';
+$::proofers{'286'}[2] = 'rpajares';
+$::proofers{'286'}[3] = 'catalino';
+$::proofers{'286'}[4] = 'rmarabini';
+$::proofers{'286'}[5] = 'ellinora';
+$::proofers{'287'}[1] = 'escalera2';
+$::proofers{'287'}[2] = 'rpajares';
+$::proofers{'287'}[3] = 'catalino';
+$::proofers{'287'}[4] = 'rmarabini';
+$::proofers{'287'}[5] = 'ellinora';
+$::proofers{'288'}[1] = 'escalera2';
+$::proofers{'288'}[2] = 'rpajares';
+$::proofers{'288'}[3] = 'catalino';
+$::proofers{'288'}[4] = 'rmarabini';
+$::proofers{'288'}[5] = 'ellinora';
+$::proofers{'289'}[1] = 'escalera2';
+$::proofers{'289'}[2] = 'rpajares';
+$::proofers{'289'}[3] = 'catalino';
+$::proofers{'289'}[4] = 'rmarabini';
+$::proofers{'289'}[5] = 'ellinora';
+$::proofers{'290'}[1] = 'escalera2';
+$::proofers{'290'}[2] = 'rpajares';
+$::proofers{'290'}[3] = 'catalino';
+$::proofers{'290'}[4] = 'rmarabini';
+$::proofers{'290'}[5] = 'ellinora';
+$::proofers{'291'}[1] = 'escalera2';
+$::proofers{'291'}[2] = 'rpajares';
+$::proofers{'291'}[3] = 'catalino';
+$::proofers{'291'}[4] = 'rmarabini';
+$::proofers{'291'}[5] = 'ellinora';
+$::proofers{'292'}[1] = 'escalera2';
+$::proofers{'292'}[2] = 'rpajares';
+$::proofers{'292'}[3] = 'catalino';
+$::proofers{'292'}[4] = 'rmarabini';
+$::proofers{'292'}[5] = 'ellinora';
+$::proofers{'293'}[1] = 'escalera2';
+$::proofers{'293'}[2] = 'rpajares';
+$::proofers{'293'}[3] = 'team';
+$::proofers{'293'}[4] = 'rmarabini';
+$::proofers{'293'}[5] = 'ellinora';
+$::proofers{'294'}[1] = 'escalera2';
+$::proofers{'294'}[2] = 'rpajares';
+$::proofers{'294'}[3] = 'catalino';
+$::proofers{'294'}[4] = 'rmarabini';
+$::proofers{'294'}[5] = 'ellinora';
+$::proofers{'295'}[1] = 'escalera2';
+$::proofers{'295'}[2] = 'rpajares';
+$::proofers{'295'}[3] = 'catalino';
+$::proofers{'295'}[4] = 'rmarabini';
+$::proofers{'295'}[5] = 'ellinora';
+$::proofers{'296'}[1] = 'escalera2';
+$::proofers{'296'}[2] = 'rpajares';
+$::proofers{'296'}[3] = 'catalino';
+$::proofers{'296'}[4] = 'rmarabini';
+$::proofers{'296'}[5] = 'ellinora';
+$::proofers{'297'}[1] = 'escalera2';
+$::proofers{'297'}[2] = 'rpajares';
+$::proofers{'297'}[3] = 'catalino';
+$::proofers{'297'}[4] = 'rmarabini';
+$::proofers{'297'}[5] = 'ellinora';
+$::proofers{'298'}[1] = 'escalera2';
+$::proofers{'298'}[2] = 'rpajares';
+$::proofers{'298'}[3] = 'catalino';
+$::proofers{'298'}[4] = 'rmarabini';
+$::proofers{'298'}[5] = 'ellinora';
+$::proofers{'299'}[1] = 'escalera2';
+$::proofers{'299'}[2] = 'rpajares';
+$::proofers{'299'}[3] = 'catalino';
+$::proofers{'299'}[4] = 'Julio Mendoza';
+$::proofers{'299'}[5] = 'ellinora';
+$::proofers{'300'}[1] = 'escalera2';
+$::proofers{'300'}[2] = 'rpajares';
+$::proofers{'300'}[3] = 'catalino';
+$::proofers{'300'}[4] = 'Julio Mendoza';
+$::proofers{'300'}[5] = 'ellinora';
+$::proofers{'301'}[1] = 'escalera2';
+$::proofers{'301'}[2] = 'jpratramon';
+$::proofers{'301'}[3] = 'MilochGermany';
+$::proofers{'301'}[4] = 'Julio Mendoza';
+$::proofers{'301'}[5] = 'ellinora';
+$::proofers{'302'}[1] = 'escalera2';
+$::proofers{'302'}[2] = 'carlosrc';
+$::proofers{'302'}[3] = 'MilochGermany';
+$::proofers{'302'}[4] = 'bfarenaz';
+$::proofers{'302'}[5] = 'ellinora';
+$::proofers{'303'}[1] = 'escalera2';
+$::proofers{'303'}[2] = 'bfarenaz';
+$::proofers{'303'}[3] = 'MilochGermany';
+$::proofers{'303'}[4] = 'bfarenaz';
+$::proofers{'303'}[5] = 'ellinora';
+$::proofers{'304'}[1] = 'escalera2';
+$::proofers{'304'}[2] = 'Tantalo';
+$::proofers{'304'}[3] = 'catalino';
+$::proofers{'304'}[4] = 'bfarenaz';
+$::proofers{'304'}[5] = 'ellinora';
+$::proofers{'305'}[1] = 'escalera2';
+$::proofers{'305'}[2] = 'Tantalo';
+$::proofers{'305'}[3] = 'catalino';
+$::proofers{'305'}[4] = 'bfarenaz';
+$::proofers{'305'}[5] = 'ellinora';
+$::proofers{'306'}[1] = 'escalera2';
+$::proofers{'306'}[2] = 'Tantalo';
+$::proofers{'306'}[3] = 'catalino';
+$::proofers{'306'}[4] = 'bfarenaz';
+$::proofers{'306'}[5] = 'ellinora';
+$::proofers{'307'}[1] = 'escalera2';
+$::proofers{'307'}[2] = 'Tantalo';
+$::proofers{'307'}[3] = 'team';
+$::proofers{'307'}[4] = 'bfarenaz';
+$::proofers{'307'}[5] = 'ellinora';
+$::proofers{'308'}[1] = 'escalera2';
+$::proofers{'308'}[2] = 'Tantalo';
+$::proofers{'308'}[3] = 'catalino';
+$::proofers{'308'}[4] = 'bfarenaz';
+$::proofers{'308'}[5] = 'ellinora';
+$::proofers{'309'}[1] = 'escalera2';
+$::proofers{'309'}[2] = 'Tantalo';
+$::proofers{'309'}[3] = 'catalino';
+$::proofers{'309'}[4] = 'bfarenaz';
+$::proofers{'309'}[5] = 'ellinora';
+$::proofers{'310'}[1] = 'escalera2';
+$::proofers{'310'}[2] = 'Tantalo';
+$::proofers{'310'}[3] = 'catalino';
+$::proofers{'310'}[4] = 'bfarenaz';
+$::proofers{'310'}[5] = 'ellinora';
+$::proofers{'311'}[1] = 'escalera2';
+$::proofers{'311'}[2] = 'Tantalo';
+$::proofers{'311'}[3] = 'catalino';
+$::proofers{'311'}[4] = 'bfarenaz';
+$::proofers{'311'}[5] = 'ellinora';
+$::proofers{'312'}[1] = 'escalera2';
+$::proofers{'312'}[2] = 'Tantalo';
+$::proofers{'312'}[3] = 'catalino';
+$::proofers{'312'}[4] = 'bfarenaz';
+$::proofers{'312'}[5] = 'ellinora';
+$::proofers{'313'}[1] = 'escalera2';
+$::proofers{'313'}[2] = 'Tantalo';
+$::proofers{'313'}[3] = 'catalino';
+$::proofers{'313'}[4] = 'bfarenaz';
+$::proofers{'313'}[5] = 'ellinora';
+$::proofers{'314'}[1] = 'escalera2';
+$::proofers{'314'}[2] = 'Tantalo';
+$::proofers{'314'}[3] = 'catalino';
+$::proofers{'314'}[4] = 'bfarenaz';
+$::proofers{'314'}[5] = 'ellinora';
+$::proofers{'315'}[1] = 'escalera2';
+$::proofers{'315'}[2] = 'bfarenaz';
+$::proofers{'315'}[3] = 'catalino';
+$::proofers{'315'}[4] = 'bfarenaz';
+$::proofers{'315'}[5] = 'ellinora';
+$::proofers{'316'}[1] = 'escalera2';
+$::proofers{'316'}[2] = 'thestorygirl';
+$::proofers{'316'}[3] = 'catalino';
+$::proofers{'316'}[4] = 'bfarenaz';
+$::proofers{'316'}[5] = 'ellinora';
+$::proofers{'317'}[1] = 'escalera2';
+$::proofers{'317'}[2] = 'thestorygirl';
+$::proofers{'317'}[3] = 'catalino';
+$::proofers{'317'}[4] = 'bfarenaz';
+$::proofers{'317'}[5] = 'ellinora';
+$::proofers{'318'}[1] = 'escalera2';
+$::proofers{'318'}[2] = 'jpratramon';
+$::proofers{'318'}[3] = 'catalino';
+$::proofers{'318'}[4] = 'rmarabini';
+$::proofers{'318'}[5] = 'ellinora';
+$::proofers{'319'}[1] = 'escalera2';
+$::proofers{'319'}[2] = 'rpajares';
+$::proofers{'319'}[3] = 'catalino';
+$::proofers{'319'}[4] = 'rmarabini';
+$::proofers{'319'}[5] = 'ellinora';
+$::proofers{'320'}[1] = 'escalera2';
+$::proofers{'320'}[2] = 'rpajares';
+$::proofers{'320'}[3] = 'catalino';
+$::proofers{'320'}[4] = 'rmarabini';
+$::proofers{'320'}[5] = 'ellinora';
+$::proofers{'321'}[1] = 'escalera2';
+$::proofers{'321'}[2] = 'rpajares';
+$::proofers{'321'}[3] = 'catalino';
+$::proofers{'321'}[4] = 'rmarabini';
+$::proofers{'321'}[5] = 'ellinora';
+$::proofers{'322'}[1] = 'escalera2';
+$::proofers{'322'}[2] = 'rpajares';
+$::proofers{'322'}[3] = 'catalino';
+$::proofers{'322'}[4] = 'rmarabini';
+$::proofers{'322'}[5] = 'ellinora';
+$::proofers{'323'}[1] = 'escalera2';
+$::proofers{'323'}[2] = 'rpajares';
+$::proofers{'323'}[3] = 'catalino';
+$::proofers{'323'}[4] = 'rmarabini';
+$::proofers{'323'}[5] = 'ellinora';
+$::proofers{'324'}[1] = 'escalera2';
+$::proofers{'324'}[2] = 'rpajares';
+$::proofers{'324'}[3] = 'catalino';
+$::proofers{'324'}[4] = 'rmarabini';
+$::proofers{'324'}[5] = 'ellinora';
+$::proofers{'325'}[1] = 'escalera2';
+$::proofers{'325'}[2] = 'rpajares';
+$::proofers{'325'}[3] = 'MilochGermany';
+$::proofers{'325'}[4] = 'rmarabini';
+$::proofers{'325'}[5] = 'ellinora';
+$::proofers{'326'}[1] = 'escalera2';
+$::proofers{'326'}[2] = 'rpajares';
+$::proofers{'326'}[3] = 'MilochGermany';
+$::proofers{'326'}[4] = 'rmarabini';
+$::proofers{'326'}[5] = 'ellinora';
+$::proofers{'327'}[1] = 'escalera2';
+$::proofers{'327'}[2] = 'rpajares';
+$::proofers{'327'}[3] = 'MilochGermany';
+$::proofers{'327'}[4] = 'rmarabini';
+$::proofers{'327'}[5] = 'ellinora';
+$::proofers{'328'}[1] = 'escalera2';
+$::proofers{'328'}[2] = 'rpajares';
+$::proofers{'328'}[3] = 'catalino';
+$::proofers{'328'}[4] = 'rmarabini';
+$::proofers{'328'}[5] = 'ellinora';
+$::proofers{'329'}[1] = 'escalera2';
+$::proofers{'329'}[2] = 'rpajares';
+$::proofers{'329'}[3] = 'catalino';
+$::proofers{'329'}[4] = 'rmarabini';
+$::proofers{'329'}[5] = 'ellinora';
+$::proofers{'330'}[1] = 'escalera2';
+$::proofers{'330'}[2] = 'rpajares';
+$::proofers{'330'}[3] = 'catalino';
+$::proofers{'330'}[4] = 'rmarabini';
+$::proofers{'330'}[5] = 'ellinora';
+$::proofers{'331'}[1] = 'escalera2';
+$::proofers{'331'}[2] = 'rpajares';
+$::proofers{'331'}[3] = 'catalino';
+$::proofers{'331'}[4] = 'rmarabini';
+$::proofers{'331'}[5] = 'ellinora';
+$::proofers{'332'}[1] = 'escalera2';
+$::proofers{'332'}[2] = 'rpajares';
+$::proofers{'332'}[3] = 'catalino';
+$::proofers{'332'}[4] = 'rmarabini';
+$::proofers{'332'}[5] = 'ellinora';
+$::proofers{'333'}[1] = 'escalera2';
+$::proofers{'333'}[2] = 'carlosrc';
+$::proofers{'333'}[3] = 'catalino';
+$::proofers{'333'}[4] = 'rmarabini';
+$::proofers{'333'}[5] = 'ellinora';
+$::proofers{'334'}[1] = 'escalera2';
+$::proofers{'334'}[2] = 'carlosrc';
+$::proofers{'334'}[3] = 'catalino';
+$::proofers{'334'}[4] = 'rmarabini';
+$::proofers{'334'}[5] = 'ellinora';
+$::proofers{'335'}[1] = 'escalera2';
+$::proofers{'335'}[2] = 'carlosrc';
+$::proofers{'335'}[3] = 'catalino';
+$::proofers{'335'}[4] = 'rmarabini';
+$::proofers{'335'}[5] = 'ellinora';
+$::proofers{'336'}[1] = 'escalera2';
+$::proofers{'336'}[2] = 'carlosrc';
+$::proofers{'336'}[3] = 'catalino';
+$::proofers{'336'}[4] = 'rmarabini';
+$::proofers{'336'}[5] = 'ellinora';
+$::proofers{'337'}[1] = 'escalera2';
+$::proofers{'337'}[2] = 'carlosrc';
+$::proofers{'337'}[3] = 'catalino';
+$::proofers{'337'}[4] = 'rmarabini';
+$::proofers{'337'}[5] = 'ellinora';
+$::proofers{'338'}[1] = 'escalera2';
+$::proofers{'338'}[2] = 'carlosrc';
+$::proofers{'338'}[3] = 'catalino';
+$::proofers{'338'}[4] = 'rmarabini';
+$::proofers{'338'}[5] = 'ellinora';
+$::proofers{'339'}[1] = 'escalera2';
+$::proofers{'339'}[2] = 'carlosrc';
+$::proofers{'339'}[3] = 'catalino';
+$::proofers{'339'}[4] = 'rmarabini';
+$::proofers{'339'}[5] = 'ellinora';
+$::proofers{'340'}[1] = 'escalera2';
+$::proofers{'340'}[2] = 'carlosrc';
+$::proofers{'340'}[3] = 'catalino';
+$::proofers{'340'}[4] = 'rmarabini';
+$::proofers{'340'}[5] = 'ellinora';
+$::proofers{'341'}[1] = 'escalera2';
+$::proofers{'341'}[2] = 'carlosrc';
+$::proofers{'341'}[3] = 'catalino';
+$::proofers{'341'}[4] = 'rmarabini';
+$::proofers{'341'}[5] = 'ellinora';
+$::proofers{'342'}[1] = 'escalera2';
+$::proofers{'342'}[2] = 'carlosrc';
+$::proofers{'342'}[3] = 'catalino';
+$::proofers{'342'}[4] = 'rmarabini';
+$::proofers{'342'}[5] = 'ellinora';
+$::proofers{'343'}[1] = 'escalera2';
+$::proofers{'343'}[2] = 'carlosrc';
+$::proofers{'343'}[3] = 'catalino';
+$::proofers{'343'}[4] = 'rmarabini';
+$::proofers{'343'}[5] = 'ellinora';
+$::proofers{'344'}[1] = 'escalera2';
+$::proofers{'344'}[2] = 'carlosrc';
+$::proofers{'344'}[3] = 'catalino';
+$::proofers{'344'}[4] = 'rmarabini';
+$::proofers{'344'}[5] = 'ellinora';
+$::proofers{'345'}[1] = 'escalera2';
+$::proofers{'345'}[2] = 'carlosrc';
+$::proofers{'345'}[3] = 'catalino';
+$::proofers{'345'}[4] = 'rmarabini';
+$::proofers{'345'}[5] = 'ellinora';
+$::proofers{'346'}[1] = 'escalera2';
+$::proofers{'346'}[2] = 'carlosrc';
+$::proofers{'346'}[3] = 'catalino';
+$::proofers{'346'}[4] = 'rmarabini';
+$::proofers{'346'}[5] = 'ellinora';
+$::proofers{'347'}[1] = 'escalera2';
+$::proofers{'347'}[2] = 'carlosrc';
+$::proofers{'347'}[3] = 'catalino';
+$::proofers{'347'}[4] = 'rmarabini';
+$::proofers{'347'}[5] = 'ellinora';
+
+$::operationshash{'Begin Page Separators Fixup'}='2019-05-15 18:43';
+$::operationshash{'Found last page separator'}='2019-05-15 18:47';
+$::operationshash{'Open /home/roberto/PGDP/Book/Elarboldelaciencia/PP/elarboldelaciencia_1.txt'}='2019-05-15 18:38';
+
+$::bookmarks[0] = '6022.6';
+
+$::pngspath = '/home/roberto/PGDP/Book/Elarboldelaciencia/PP/pngs/';
+
+$::spellindexbkmrk = '';
+
+$::projectid = 'projectID59cfc5b06f3fc';
+
+$::booklang = 'en';
+
+$scannoslistpath = 'wordlist';
+
+1;
