@@ -90,7 +90,7 @@
  'Pg089' => {'offset' => '2799.37', 'label' => 'Pg 93', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg090' => {'offset' => '2836.34', 'label' => 'Pg 94', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg091' => {'offset' => '2883.25', 'label' => 'Pg 95', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg092' => {'offset' => '2926.78', 'label' => 'Pg 96', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg092' => {'offset' => '2926.44', 'label' => 'Pg 96', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg093' => {'offset' => '2957.42', 'label' => 'Pg 97', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg094' => {'offset' => '2996.48', 'label' => 'Pg 98', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg095' => {'offset' => '3031.48', 'label' => 'Pg 99', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -125,7 +125,7 @@
  'Pg124' => {'offset' => '4038.40', 'label' => 'Pg 128', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg125' => {'offset' => '4072.47', 'label' => 'Pg 129', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg126' => {'offset' => '4106.48', 'label' => 'Pg 130', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg127' => {'offset' => '4142.38', 'label' => 'Pg 131', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg127' => {'offset' => '4142.23', 'label' => 'Pg 131', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg128' => {'offset' => '4151.30', 'label' => 'Pg 132', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg129' => {'offset' => '4184.44', 'label' => 'Pg 133', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg130' => {'offset' => '4222.16', 'label' => 'Pg 134', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -172,7 +172,7 @@
  'Pg171' => {'offset' => '5643.38', 'label' => 'Pg 175', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg172' => {'offset' => '5678.9', 'label' => 'Pg 176', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg173' => {'offset' => '5713.46', 'label' => 'Pg 177', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg174' => {'offset' => '5733.61', 'label' => 'Pg 178', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg174' => {'offset' => '5733.46', 'label' => 'Pg 178', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg175' => {'offset' => '5768.5', 'label' => 'Pg 179', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg176' => {'offset' => '5807.31', 'label' => 'Pg 180', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg177' => {'offset' => '5843.36', 'label' => 'Pg 181', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -201,7 +201,7 @@
  'Pg200' => {'offset' => '6559.47', 'label' => 'Pg 204', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg201' => {'offset' => '6598.50', 'label' => 'Pg 205', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg202' => {'offset' => '6633.27', 'label' => 'Pg 206', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg203' => {'offset' => '6669.46', 'label' => 'Pg 207', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg203' => {'offset' => '6669.40', 'label' => 'Pg 207', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg204' => {'offset' => '6700.40', 'label' => 'Pg 208', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg205' => {'offset' => '6735.6', 'label' => 'Pg 209', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg206' => {'offset' => '6775.34', 'label' => 'Pg 210', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -221,7 +221,7 @@
  'Pg220' => {'offset' => '7251.42', 'label' => 'Pg 224', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg221' => {'offset' => '7290.17', 'label' => 'Pg 225', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg222' => {'offset' => '7329.46', 'label' => 'Pg 226', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg223' => {'offset' => '7365.27', 'label' => 'Pg 227', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg223' => {'offset' => '7365.9', 'label' => 'Pg 227', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg224' => {'offset' => '7403.45', 'label' => 'Pg 228', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg225' => {'offset' => '7438.47', 'label' => 'Pg 229', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg226' => {'offset' => '7476.45', 'label' => 'Pg 230', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -233,7 +233,7 @@
  'Pg232' => {'offset' => '7658.25', 'label' => 'Pg 236', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg233' => {'offset' => '7698.5', 'label' => 'Pg 237', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg234' => {'offset' => '7737.29', 'label' => 'Pg 238', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg235' => {'offset' => '7772.53', 'label' => 'Pg 239', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg235' => {'offset' => '7772.39', 'label' => 'Pg 239', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg236' => {'offset' => '7812.44', 'label' => 'Pg 240', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg237' => {'offset' => '7849.49', 'label' => 'Pg 241', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg238' => {'offset' => '7880.55', 'label' => 'Pg 242', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -245,7 +245,7 @@
  'Pg244' => {'offset' => '8069.19', 'label' => 'Pg 248', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg245' => {'offset' => '8102.38', 'label' => 'Pg 249', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg246' => {'offset' => '8125.13', 'label' => 'Pg 250', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg247' => {'offset' => '8163.56', 'label' => 'Pg 251', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg247' => {'offset' => '8163.44', 'label' => 'Pg 251', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg248' => {'offset' => '8197.39', 'label' => 'Pg 252', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg249' => {'offset' => '8232.26', 'label' => 'Pg 253', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg250' => {'offset' => '8267.48', 'label' => 'Pg 254', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -318,7 +318,7 @@
  'Pg317' => {'offset' => '10628.46', 'label' => 'Pg 321', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg318' => {'offset' => '10668.37', 'label' => 'Pg 322', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg319' => {'offset' => '10707.40', 'label' => 'Pg 323', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg320' => {'offset' => '10755.45', 'label' => 'Pg 324', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg320' => {'offset' => '10755.32', 'label' => 'Pg 324', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg321' => {'offset' => '10796.15', 'label' => 'Pg 325', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg322' => {'offset' => '10835.44', 'label' => 'Pg 326', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg323' => {'offset' => '10875.50', 'label' => 'Pg 327', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -332,7 +332,7 @@
  'Pg331' => {'offset' => '11168.43', 'label' => 'Pg 335', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg332' => {'offset' => '11202.40', 'label' => 'Pg 336', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg333' => {'offset' => '11212.7', 'label' => 'Pg 337', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg334' => {'offset' => '11246.56', 'label' => 'Pg 338', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg334' => {'offset' => '11246.38', 'label' => 'Pg 338', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg335' => {'offset' => '11290.28', 'label' => 'Pg 339', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg336' => {'offset' => '11331.39', 'label' => 'Pg 340', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg337' => {'offset' => '11369.43', 'label' => 'Pg 341', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -2084,11 +2084,11 @@ $::proofers{'347'}[3] = 'catalino';
 $::proofers{'347'}[4] = 'rmarabini';
 $::proofers{'347'}[5] = 'ellinora';
 
-$::operationshash{'Begin Page Separators Fixup'}='2019-05-15 18:43';
 $::operationshash{'Found last page separator'}='2019-05-15 18:47';
-$::operationshash{'Open /home/roberto/PGDP/Book/Elarboldelaciencia/PP/elarboldelaciencia_1.txt'}='2019-05-15 18:38';
+$::operationshash{'Open /home/roberto/PGDP/Book/Elarboldelaciencia/PP/elarboldelaciencia_1.txt'}='2019-05-19 10:20';
+$::operationshash{'Begin Page Separators Fixup'}='2019-05-15 18:43';
 
-$::bookmarks[0] = '6022.6';
+$::bookmarks[0] = '11771.23';
 
 $::pngspath = '/home/roberto/PGDP/Book/Elarboldelaciencia/PP/pngs/';
 

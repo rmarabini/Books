@@ -1678,7 +1678,7 @@ la lectura de <i>Parerga y Paralipomena</i>, y le pareció
 un libro casi ameno, en parte cándido, y le
 divirtió más de lo que suponía. Por último, intentó
 descifrar <i>La crítica de la razón pura</i>. Veía que
-con un esfuerso[** esfuerzo?] de atención podía seguir el razonamiento
+con un esfuerzo de atención podía seguir el razonamiento
 del autor como quien sigue el desarrollo
 de un teorema matemático; pero le pareció
 demasiado esfuerzo para su cerebro y dejó
@@ -1697,7 +1697,7 @@ buceamientos de Andrés Hurtado, le decían:
 --¿Pero no te basta con la filosofía de Letamendi?
 
 --Si eso no es filosofía ni nada--replicaba
-Andrés--.[**P3: smudge?]Letamendi es un hombre sin una idea
+Andrés--. Letamendi es un hombre sin una idea
 profunda; no tiene en la cabeza más que palabras
 y frases. Ahora, como vosotros no las comprendéis,
 os parecen extraordinarias.
@@ -1735,7 +1735,7 @@ los italianos le parecían barítonos de zarzuela.
 
 Viendo que no le gustaban los libros modernos
 volvió a emprender con la obra de Kant, y
-leyó entera con grandes trabajos la <i>Critica[**Crítica] de la
+leyó entera con grandes trabajos la <i>Crítica de la
 razón pura</i>.
 
 Ya aprovechaba algo más lo que leía y le quedaban
@@ -1771,7 +1771,7 @@ emplearse.
 
 El doctor Aracil a todo decía que no.
 
---Es una enfermedad que no tiene tratamíento[**tratamiento]
+--Es una enfermedad que no tiene tratamiento
 específico--aseguraba--; bañarle, alimentarle y
 esperar, nada más.
 
@@ -1792,7 +1792,7 @@ Andrés desde entonces comenzó a sentir una
 gran estimación por Margarita; el cariño de Luisito
 los había unido.
 
-A los treínta[**treinta] o cuarenta días la fiebre desapareció,
+A los treinta o cuarenta días la fiebre desapareció,
 dejando al niño flaco, hecho un esqueleto.
 
 Andrés adquirió con este primer ensayo de
@@ -1816,7 +1816,7 @@ del médico y después salir a la botica.
 
 En este curso, Andrés se hizo amigo de un
 estudiante rezagado, ya bastante viejo, a quien
-cada año de carrera costaba por la[**lo ?] menos dos
+cada año de carrera costaba por lo menos dos
 o tres.
 
 Un día este estudiante le preguntó a Andrés
@@ -1876,7 +1876,7 @@ curas para sacar dinero.
 
 --¡Cállate, hombre, cállate! No disparates.
 
-Lamela en el fondo era un rezagado en todo[**,]
+Lamela en el fondo era un rezagado en todo:
 en la carrera y en las ideas. Discurría como un
 hombre de a principio del siglo. La concepción
 mecánica actual del mundo económico y de la
@@ -1937,7 +1937,7 @@ mundo y para creer en la belleza de aquella dama.
 Algunas veces que iban por el Retiro charlando,
 Lamela se volvía y decía:
 
---¡Míra[**Mira], cállate!
+--¡Mira, cállate!
 
 --Pues ¿qué pasa?
 
@@ -2117,7 +2117,7 @@ patadas.
 de las patillas blancas al practicante.
 
 El practicante y una enfermera comenzaron a
-perseguir al anima![**animal] por toda la sala; la enferma
+perseguir al animal por toda la sala; la enferma
 miraba angustiada esta persecución.
 
 --Y a esta tía llevadla a la guardilla--añadió
@@ -2175,7 +2175,7 @@ lo mismo nos pasa a los demás.
 Las palabras de Aracil eran la gota de agua
 fría en las exaltaciones humanitarias de Andrés.
 
---Si quieres dedicarte a esas cosas--le decía[**--],
+--Si quieres dedicarte a esas cosas--le decía--,
 hazte político, aprende a hablar.
 
 --Pero si yo no me quiero dedicar a político--replicaba
@@ -2442,7 +2442,7 @@ calle de Atocha, había establecido su cuchitril el
 hermano Juan.
 
 En este cuchitril se encerraba con un perrito
-que le hacia[**hacía] compañía.
+que le hacía compañía.
 
 A cualquier hora que fuesen a llamar al hermano,
 siempre había luz en su camaranchón y
@@ -2500,7 +2500,7 @@ física, orgánica.
 Había en él algo anormal, indudablemente. ¡Es
 tan lógico, tan natural en el hombre huir del dolor,
 de la enfermedad, de la tristeza! Y, sin embargo,
-para él, el sufrimiento, la pena, la sucíedad[** P2: not sure P1:suciedad?],
+para él, el sufrimiento, la pena, la suciedad,
 debían de ser cosas atrayentes.
 
 Andrés comprendía el otro extremo, que el
@@ -2923,7 +2923,7 @@ a enamorar usted de mí, ni aun para divertirse.
 
 --Porque no.
 
-Ella comprendía que no gustara a los hombre[** P2: seguramente sí P1:hombres?]
+Ella comprendía que no gustara a los hombres.
 
 A ella misma le gustaban más las chicas, y no es
 que tuviera instintos viciosos; pero la verdad era
@@ -2964,7 +2964,7 @@ III
 LAS MOSCAS
 
 
-<sc>Andres[** Andrés?]</sc> salió a la calle con un grupo de hombres.
+<sc>Andrés</sc> salió a la calle con un grupo de hombres.
 
 Hacía un frío intenso.
 
@@ -3049,7 +3049,7 @@ baile de la Zarzuela.
 
 --¡Hola, Victorio!--le saludó Aracil.
 
---[** falta ¡]Hola, Julio!--contestó el otro--. ¿Qué tal?
+--¡Hola, Julio!--contestó el otro--. ¿Qué tal?
 ¿De dónde salen ustedes?
 
 --De aquí; de casa de doña Virginia.
@@ -3072,7 +3072,7 @@ masaje, tenía más fuerzas que un hombre, y para
 ella no era nada sujetar a una mujer como si fuera
 un niño.
 
-Es[**En] estos negocios de abortos y de tercerías
+En estos negocios de abortos y de tercerías
 manifestaba una audacia enorme. Como esas
 moscas sarcófagas que van a los animales despedazados
 y a las carnes muertas, así aparecía
@@ -3129,7 +3129,7 @@ Este señor Rafael Villasús era un pobre diablo
 autor de comedias y de dramas detestables en
 verso.
 
-El poeta, como se llamaba él, vivia[**vivía] su vida en
+El poeta, como se llamaba él, vivía su vida en
 artista, en bohemio; era en el fondo un completo
 majadero, que había echado a perder a sus hijas
 por un estúpido romanticismo.
@@ -3189,7 +3189,7 @@ bruscamente.
 
 --Que es usted un imbécil, una mala bestia.
 
---¡Usted no me dice a mí eso[**!]--gritó el masón.
+--¡Usted no me dice a mí eso!--gritó el masón.
 
 --¿No está usted oyendo que se lo digo?
 
@@ -3257,7 +3257,7 @@ peor?
 
 --¡Jesús! ¡Qué palabras!
 
---A mí me vino un día--siguió dicíendo[**diciendo]
+--A mí me vino un día--siguió diciendo
 Lulú--preguntándome si quería ir con ella a casa
 de un viejo. ¡Qué tía guarra!
 
@@ -3666,14 +3666,14 @@ y consideraciones acerca de la honra
 y de las palabras que se dicen imprudentemente.
 
 Se veía que estaba sondeando a ver si se podía
-atrever a echáselas[**echárselas] de valiente, porque aquellos
+atrever a echárselas de valiente, porque aquellos
 señoritos lo mismo podían ser dos panolis
 que dos puntos bragados que le hartasen de mojicones.
 
 Lulú escuchaba nerviosa, moviendo los brazos
 y las piernas, dispuesta a saltar.
 
-El Chafandin[**Chafandín] comenzó a envalentonarse al
+El Chafandín comenzó a envalentonarse al
 ver que no le contestaban, y subió el tono de la
 voz.
 
@@ -3725,7 +3725,7 @@ ni un perro, y que usted no es un cabronazo?
 Bueno; Lulú, diga usted eso para que este buen
 hombre se vaya tranquilo.
 
---A mí ningún pollo neque[**CP abrev for "Petimetre"] me toma el pelo--dijo
+--A mí ningún pollo neque me toma el pelo--dijo
 el Chafandín, levantándose.
 
 --Yo lo que voy a hacer--dijo Andrés irritado--es
@@ -3989,9 +3989,9 @@ Había también en las guardillas una casa de
 huéspedes de una gallega bizca, tan ancha de
 arriba como de abajo. Esta gallega, la Paca, tenía
 de pupilos, entre otros, un mozo de la clase de
-dísección[** disección?] de San Carlos, tuerto, a quien conocían
+disección de San Carlos, tuerto, a quien conocían
 Aracil y Hurtado; un enfermero del Hospital General
-y un cesante, a quíen[** quien?] llamaban don Cleto.
+y un cesante, a quien llamaban don Cleto.
 
 Don Cleto Meana era el filósofo de la casa,
 era un hombre bien educado y culto, que había
@@ -4139,7 +4139,7 @@ Varios puntos entendidos con la casa iniciaban
 una partida de juego, y cuando había dinero
 en la mesa, alguno gritaba:
 
---[** -- guessed]¡Señores, la Policía!
+--¡Señores, la Policía!
 
 Y unas cuantas manos solícitas cogían las monedas,
 mientras que los agentes de Policía conchabados
@@ -4228,7 +4228,7 @@ estas vidas?--preguntó Andrés al final.
 Iturrioz con el bote de agua en la mano--. Que
 la vida es una lucha constante, una cacería cruel
 en que nos vamos devorando los unos a los
-otros. Plantas[**P2: creo que es punto y seguido P1:CP plantas], microbios, animales.
+otros. Plantas, microbios, animales.
 
 --Si yo también he pensado en eso--repuso
 Andrés--; pero voy abandonando la idea. Primeramente
@@ -4304,7 +4304,7 @@ Ahí tienes el caso del hermano Juan...
 
 --Ese no creo que sea un águila, ni un lobo.
 
---Será un mochuelo o una garduña;[**,] pero de
+--Será un mochuelo o una garduña; pero de
 instintos perturbados.
 
 --Sí, es muy posible--repuso Andrés--; pero
@@ -4339,7 +4339,7 @@ lo mejor es no hacer nada.
 Iturrioz dió unas cuantas vueltas por la azotea
 y luego dijo:
 
---Es la única objeción que me puedes hacer;[** P2: quizás : | P3: ";" ok]
+--Es la única objeción que me puedes hacer;
 pero no es mía la culpa.
 
 --Ya lo sé.
@@ -4354,7 +4354,7 @@ humana no es más que una síntesis de la psicología
 animal. Así se encuentran en el hombre todas
 las formas de la explotación y de la lucha:
 la del microbio, la del insecto, la de la fiera...
-[**P2: hay dos "¡" | P3: "¡" este sobra]Ese usurero que tú me has descrito, el tío Miserias,
+Ese usurero que tú me has descrito, el tío Miserias,
 ¡qué de avatares no tiene en la zoología!
 Ahí están los acinétidos chupadores que absorben
 la substancia protoplasmática de otros infusorios;
@@ -4379,7 +4379,7 @@ ahí están las avispas, que hacen lo mismo,
 arrojando al <i>spoliarium</i> que sirve de despensa
 para sus crías, los pequeños insectos, paralizados
 por un lancetazo que les dan con el
-aguijón en los anglios motores; hay[**P2:probablemente sí P1:ahí | P3: "ahí" ok] está el <i>estafilino</i>
+aguijón en los anglios motores; ahí está el <i>estafilino</i>
 que se lanza a traición sobre otro individuo
 de su especie, le sujeta, le hiere y le absorbe
 los jugos; ahí está el <i>meloe</i>, que penetra subrepticiamente
@@ -4395,7 +4395,7 @@ horrible.
 reventar a uno, lo revienta a conciencia. La justicia
 es una ilusión humana; en el fondo todo es
 destruir, todo es crear. Cazar, guerrear, digerir,
-respirar, son formas de creación y de destrucción[**hyphen missing]
+respirar, son formas de creación y de destrucción
 al mismo tiempo.
 
 --Y entonces, ¿qué hacer?--murmuró Andrés--.
@@ -4727,7 +4727,7 @@ abandonado, lleno de hierbajos, le pareció
 un paraíso. Este día de Navidad tan espléndido,
 tan luminoso, le llenó de paz y de melancolía.
 
-Del pueblo, del campo, de la atmosfera[**atmósfera ?] transparente
+Del pueblo, del campo, de la atmósfera transparente
 llegaba el silencio, sólo interrumpido por
 el cacareo lejano de los gallos; los moscones y
 las avispas brillaban al sol.
@@ -4775,7 +4775,7 @@ sus temores.
 
 --Si ese chico se pusiera bien--murmuraba.
 
---¿Le quiere usted mucho--preguntaba Lulú?[**no debería estar ? después de "mucho"?]
+--¿Le quiere usted mucho?--preguntaba Lulú.
 
 --Sí, como si fuera mi hijo. Era yo ya grande
 cuando nació él, figúrese usted.
@@ -5152,7 +5152,7 @@ la parte de atrás de la casa, a la altura del primer
 piso de la calle brotaba, en medio de un huertecillo
 sombrío, un altísimo naranjo.
 
-Todos[**Todas] las habitaciones presentaban el mismo
+Todas las habitaciones presentaban el mismo
 aspecto silencioso, algo moruno, de luz velada.
 
 El cuarto destinado para Andrés y para Luisito
@@ -5223,7 +5223,7 @@ para que entre el sol.
 
 Efectivamente; al día siguiente las ventanas estaban
 cerradas, y la criada vieja contaba a las
-otras que el señorito estaba loco, porque decia[**decía]
+otras que el señorito estaba loco, porque decía
 que había unas moscas en el aire que no se
 veían y que las mataba el sol.
 
@@ -5308,10 +5308,10 @@ y de otras redondas y lisas.
 Los palomares se levantaban como grandes
 jaulones ennegrecidos. En el terrado próximo de
 una casa, sin duda, abandonada, se veían rollos
-de esteras, montones de cuerdas de estropajo[**, ?]
+de esteras, montones de cuerdas de estropajo,
 cacharros rotos esparcidos por el suelo; en otra
 azotea aparecía un pavo real que andaba suelto
-por el tejado, y daba unos grítos[**gritos] agudos y desagradables.
+por el tejado, y daba unos gritos agudos y desagradables.
 
 Por encima de las terrazas y tejados aparecían
 las torres del pueblo: el Miguelete, rechoncho y
@@ -5335,7 +5335,7 @@ trazaban círculos caprichosos en el aire, lanzando
 gritos agudos. Andrés las seguía con la
 vista. Al anochecer se retiraban. Entonces pasaban
 algunos mochuelos y gavilanes. Venus comenzaba
-a brillar con más fuerza y aparecia[**aparecía ?] Júpiter.
+a brillar con más fuerza y aparecía Júpiter.
 En la calle, un farol de gas parpadeaba
 triste y soñoliento...
 
@@ -5537,7 +5537,7 @@ para los neumáticos de los automóviles.
 
 A Andrés le pareció que su amigo desvariaba;
 pero no quiso quitarles las ilusiones. Sin embargo,
-tiempo después, al ver a los autemóviles[**PC typo for automóviles] con
+tiempo después, al ver a los automóviles con
 llantas de trozos de acero como las que había
 ideado Fermín, pensó que éste debía tener verdadera
 inteligencia de inventor.
@@ -5639,7 +5639,7 @@ marchan chirriando y levantando polvo.
 que los alemanes; pero, en cambio, no te alejan
 de la vida.
 
---¿Y qué?--replicó Andrés--[** missing some characters?. perhaps '. ']Uno tiene la angustia,
+--¿Y qué?--replicó Andrés--. Uno tiene la angustia,
 la desesperación de no saber qué hacer
 con la vida, de no tener un plan, de encontrarse
 perdido, sin brújula, sin luz adonde dirigirse.
@@ -5650,7 +5650,7 @@ para el caminante detenerse y sentarse a la sombra
 de un árbol, algo como penetrar en un oasis
 de paz; pero la vida es estúpida, sin emociones,
 sin accidentes, al menos aquí, y creo que en todas
-partes y el pensamíento[** pensamiento?] se llena de terrores
+partes y el pensamiento se llena de terrores
 como compensación a la esterilidad emocional
 de la existencia.
 
@@ -5693,7 +5693,7 @@ fin y alguien descubriera que no tenía ojos. Después
 de Kant, el mundo es ciego; ya no puede
 haber ni libertad, ni justicia, sino fuerzas que
 obran por un principio de causalidad en los dominios
-del espacio y del tiempo,[**.] Y esto tan grave,
+del espacio y del tiempo. Y esto tan grave,
 no es todo; hay además otra cosa que se desprende
 por primera vez claramente de la filosofía
 de Kant, y es que el mundo no tiene realidad; es
@@ -5708,7 +5708,7 @@ Ingenioso si se quiere, pero nada más.
 --No; no sólo es absurdo, sino que es práctico.
 Antes para mí era una gran pena considerar
 el infinito del espacio; creer el mundo inacabable
-me producia[**producía ?] una gran impresión; pensar que al
+me producía una gran impresión; pensar que al
 día siguiente de mi muerte el espacio y el tiempo
 seguirían existiendo me entristecía, y eso que
 consideraba que mi vida no es una cosa envidiable;
@@ -5730,7 +5730,7 @@ tiempo y un espacio sigan para los demás. ¿Pero
 eso qué importa si no es el nuestro que es el
 único real?
 
---Bah. ¡Fantasias![**¡Fantasías!] ¡Fantasías!--dijo Iturrioz.
+--Bah. ¡Fantasías! ¡Fantasías!--dijo Iturrioz.
 
 
 
@@ -5744,7 +5744,7 @@ No, no, realidades--replicó Andrés--. ¿Qué
 duda cabe que el mundo que conocemos es
 el resultado del reflejo de la parte de cosmos del
 horizonte sensible en nuestro cerebro? Este reflejo
-unido, contrastado, eon[**con] las imágenes reflejadas
+unido, contrastado, con las imágenes reflejadas
 en los cerebros de los demás hombres que
 han vivido y que viven, es nuestro conocimiento
 del mundo, es nuestro mundo. ¿Es así, en realidad,
@@ -5803,7 +5803,7 @@ su propio mecanismo.
 una misma cosa, es lo que llamamos verdad.
 Fuera de los axiomas lógicos y matemáticos, en
 los cuales no se puede suponer que no haya
-unanimidad, en lo demas[**demás] todas las verdades tienen
+unanimidad, en lo demás todas las verdades tienen
 como condición el ser unánimes.
 
 --¿Entonces son verdades porque son unánimes?--preguntó
@@ -6006,7 +6006,7 @@ oportunidad y la fuerza; en una época de guerras
 dió a los hombres un dios de las batallas, a
 las mujeres y a los débiles un motivo de lamentos,
 de quejas y de sensiblería. Hoy, después
-de siglos de dominación semítica, el munde[** mundo?]
+de siglos de dominación semítica, el mundo
 vuelve a la cordura, y la verdad aparece como
 una aurora pálida tras de los terrores de la
 noche.
@@ -6018,7 +6018,7 @@ amo del mundo, tomará avatares extraordinarios.
 ¿Hay nada más interesante que la Inquisición,
 de índole tan semítica, dedicada a limpiar
 de judíos y moros al mundo? ¿Hay caso
-más curioso que el de Torquemada,[** unclear ,] de origen
+más curioso que el de Torquemada, de origen
 judío?
 
 --Sí, eso define el carácter semítico, la confianza,
@@ -6031,7 +6031,7 @@ están esos precursores?
 
 --En la ciencia, en la filosofía, en Kant sobre
 todo. Kant ha sido el gran destructor de la mentira
-greco[**P2: -]semítica. El se encontró con esos dos
+greco-semítica. El se encontró con esos dos
 árboles bíblicos de que usted hablaba antes y fué
 apartando las ramas del árbol de la vida que
 ahogaban al árbol de la ciencia. Tras él no queda,
@@ -6173,7 +6173,7 @@ máscaras, en donde bailan millones de figuras
 abigarradas, tú me dices: Acerquémonos a la
 verdad. ¿Dónde está la verdad? ¿Quién es ese enmascarado
 que pasa por delante de nosotros?
-¿Qué esconde debajo de su capa gris? [**missing ¿]Es un rey
+¿Qué esconde debajo de su capa gris? ¿Es un rey
 o un mendigo? ¿Es un joven admirablemente formado
 o un viejo enclenque y lleno de úlceras?
 La verdad es una brújula loca que no funciona
@@ -6347,7 +6347,7 @@ de saneamiento, una desinfección de la vida.
 
 --Una desinfección que puede matar al enfermo.
 
-[**--]No, no hay cuidado. El instinto de conservación
+--No, no hay cuidado. El instinto de conservación
 del cuerpo social es bastante fuerte para rechazar
 todo lo que no puede digerir. Por muchos
 gérmenes que se siembren, la descomposición de
@@ -6418,7 +6418,7 @@ V
 LA COMPAÑÍA DEL HOMBRE
 
 
-<sc>Si</sc>[**<sc>Sí</sc>], nos ha quitado terrores--exclamó Iturrioz--;
+<sc>Sí</sc>, nos ha quitado terrores--exclamó Iturrioz--;
 pero nos ha quitado también vida. ¡Sí, es la
 claridad la que hace la vida actual completamente
 vulgar! Suprimir los problemas es muy cómodo;
@@ -6456,7 +6456,7 @@ se vea las plumas y la cola?
 --Sí; creyendo en algo más útil y grande que
 ser un loro, creo que hay que afirmar con fuerza.
 Para llegar a dar a los hombres una regla común,
-una disciplina, una organización[**,] se necesita una
+una disciplina, una organización, se necesita una
 fe, una ilusión, algo que aunque sea una mentira
 salida de nosotros mismos parezca una verdad
 llegada de fuera. Si yo me sintiera con energía,
@@ -6600,8 +6600,8 @@ alto hizo lo mismo, y el hombrecito, después de
 quitarse su balandrán, se registró los bolsillos y
 mostró un billete y un papel.
 
-El revisor advirtió al víajero[**viajero] que llevaba un billete
-de segunda[**.]
+El revisor advirtió al viajero que llevaba un billete
+de segunda.
 
 El hombrecito de negro, sin más ni más, se
 encolerizó, y dijo que aquello era una grosería;
@@ -6666,8 +6666,8 @@ que sabe viajar, que consideran el mundo como
 suyo. Se acomodaron los cómicos en el tren y se
 oyó gritar de vagón a vagón:
 
---Eh, Fernández, ¿dónde está la botella?[**--]
-¡Molina, que la característica te llama!--¡A ver
+--Eh, Fernández, ¿dónde está la botella?
+--¡Molina, que la característica te llama!--¡A ver
 ese traspunte que se ha perdido!
 
 Se tranquilizaron los cómicos, y el tren siguió
@@ -6677,7 +6677,7 @@ Ya al amanecer, a la pálida claridad de la mañana,
 se iban viendo tierras de viña y olivos en
 hilera.
 
-Estaba cerca la eatación[** estación] donde tenía que bajar
+Estaba cerca la estación donde tenía que bajar
 Andrés. Se preparó, y al detenerse el tren
 saltó al andén, desierto. Avanzó hacia la salida y
 dió la vuelta a la estación. En frente, hacia el
@@ -6734,7 +6734,7 @@ en una plaza delante de un caserón blanco,
 en uno de cuyos balcones se leía: Fonda de la
 Palma.
 
---¿Usted parará aquí?--le preguntó el mozo[** missing .]
+--¿Usted parará aquí?--le preguntó el mozo.
 
 --Sí, aquí.
 
@@ -6829,7 +6829,7 @@ a ver a su compañero, el doctor Sánchez.
 
 El doctor Sánchez vivía cerca, en una casa de
 aspecto pobre. Era un hombre grueso, rubio, de
-ojos azules, inexpresívos[**typo:inexpresivos], con una cara de carnero,
+ojos azules, inexpresivos, con una cara de carnero,
 de aire poco inteligente.
 
 El doctor Sánchez llevó la conversación a la
@@ -6914,7 +6914,7 @@ soplo de viento lo iba a arrastrar y a deshacer
 como nube de polvo sobre la tierra enardecida
 y seca.
 
-En el aire había un olor empireumático[** unreadable (I can't access the source to check)], dulce,
+En el aire había un olor empireumático, dulce,
 agradable.
 
 --Están quemando orujo en alguna alquitara--dijo
@@ -6985,7 +6985,7 @@ un patio.
 La visita, por lo general, le daba pocos quebraderos
 de cabeza; sin saber por qué, había supuesto
 los primeros días que tendría continuos disgustos;
-creía que aquella gente manchega seria[**P2: sería]
+creía que aquella gente manchega sería
 agresiva, violenta, orgullosa; pero no, la mayoría
 eran sencillos, afables, sin petulancia.
 
@@ -7022,7 +7022,7 @@ caro. La traían en carros desde una distancia de
 cuatro leguas, y cada cántaro valía diez céntimos.
 Los pozos estaban muy profundos; sacar el
 agua suficiente de ellos para tomar un baño,
-constituía un gran trabajo; se necesilaba[**necesitaba] emplear
+constituía un gran trabajo; se necesitaba emplear
 una hora lo menos. Con aquel régimen de carne
 y con el calor, Andrés estaba constantemente
 excitado.
@@ -7114,7 +7114,7 @@ Andrés.
 --Sí, señor; ¿por qué no?
 
 --Ahora quisiera que me indicara usted algún
-mozo que se encargara de llenar todos [**los ?] días la
+mozo que se encargara de llenar todos los días la
 tinaja; yo le pagaré lo que me diga.
 
 --Bueno. El mozo de casa lo hará. ¿Y de comer?
@@ -7166,7 +7166,7 @@ dejó en el suelo.
 En esto entró Pepinito, y al ver al gorrión se
 acercó a una puerta y llamó al gato. El gato, un
 gato negro con los ojos dorados, se asomó al
-patio. Pepinito entonces, asustó[**P2: typo fixed] al pájaro con el
+patio. Pepinito entonces, asustó al pájaro con el
 pie, y al verlo revolotear, el gato se abalanzó
 sobre él y le hizo arrancar un quejido. Luego se
 escapó con los ojos brillantes y el gorrión en la
@@ -7181,7 +7181,7 @@ que se encuentra por encima de todo sentimentalismo.
 
 
 
-[** IV?]
+IV
 
 LA HOSTILIDAD MÉDICA
 
@@ -7318,8 +7318,8 @@ hablarse. Al llegar a su casa, Andrés bajó, cogió
 su estuche, un poco de algodón y una pastilla de
 sublimado. Volvieron al molino.
 
-Andres[** Andrés?] animó un poco a la enferma, jabonó
-y fríccionó[**friccionó] la piel en el sitio de elección, y hundió
+Andrés animó un poco a la enferma, jabonó
+y friccionó la piel en el sitio de elección, y hundió
 el trócar en el vientre abultado de la muchacha.
 Al retirar el trócar y dejar la cánula, manaba
 el agua, verdosa, llena de serosidades, como
@@ -7362,9 +7362,9 @@ llegar a casa bajó del coche, y murmuró:
 
 --Buenos días.
 
---[**P2: typo fixed]¡Adiós!
+--¡Adiós!
 
-Y los dos hombres se despidíeron[**despidieron] como dos
+Y los dos hombres se despidieron como dos
 enemigos.
 
 Al día siguiente, Sánchez se le acercó a Andrés,
@@ -7426,7 +7426,7 @@ Claro que por prudencia no aseguraba los primeros
 días nada; pero casi siempre las enfermedades
 le daban sorpresas; una supuesta pleuresía,
 aparecía como una lesión hepática; una tifoidea,
-se le transformaba en una grippe[**gripe ?] real.
+se le transformaba en una gripe real.
 
 Cuando la enfermedad era clara, una viruela o
 una pulmonía, entonces la conocía él y la conocían
@@ -7627,7 +7627,7 @@ se preguntaba. ¿No era científicamente un poco
 absurdo el furor que le entraba muchas veces al
 ver las injusticias del pueblo? Por otro lado: ¿no
 estaba también determinado, no era fatal el que
-su cerebro tuviera una irritacion[**irritación] que le hiciera
+su cerebro tuviera una irritación que le hiciera
 protestar contra aquel estado de cosas violentamente?
 
 Andrés discutía muchas veces con su patrona.
@@ -7644,7 +7644,7 @@ hecho con el robo a la comunidad, era más
 grande que el producido contra el bolsillo de un
 particular; pero la Dorotea no se convencía.
 
---¡Qué hermosa sería[**P2: typo fixed] una revolución--decía
+--¡Qué hermosa sería una revolución--decía
 Andrés a su patrona--, no una revolución de
 oradores y de miserables charlatanes, sino una
 revolución de verdad! Mochuelos y Ratones,
@@ -7769,7 +7769,7 @@ Pepinito era del Tomelloso, y todo lo refería a
 su pueblo. El Tomelloso, según él, era la antítesis
 de Alcolea; Alcolea era lo vulgar, el Tomelloso
 lo extraordinario; que se hablase de lo que
-se hablase, Pepinito le decía:[**sobra ":"] a Andrés:
+se hablase, Pepinito le decía a Andrés:
 
 --Debía usted ir al Tomelloso. Allí no hay ni
 un árbol.
@@ -7781,7 +7781,7 @@ riendo.
 todo el pueblo está agujereado por las cuevas
 para el vino, y no crea usted que son modernas,
 no, sino antiguas. Allí ve usted tinajones grandes
-metidos en el suelo. Alli[**Allí above] todo el vino que se
+metidos en el suelo. Allí todo el vino que se
 hace es natural; malo muchas veces, porque no
 saben prepararlo, pero natural.
 
@@ -7874,7 +7874,7 @@ Andrés recordó a Iturrioz, cuando decía que
 sólo lo artificial es bueno, y pensó que tenía razón.
 Las decantadas labores rurales, motivo de
 inspiración para los poetas, le parecían estúpidas
-y bestiales. ¡Cuánto más hermosa[** unclear], aunque
+y bestiales. ¡Cuánto más hermosa, aunque
 estuviera fuera de toda idea de belleza tradicional,
 la función de un motor eléctrico, que no
 este trabajo muscular, rudo, bárbaro y mal aprovechado!
@@ -8035,7 +8035,7 @@ política, de la doctrina evolucionista. Estas cosas
 del darwinisno, como decía él, le parecían a don
 Blas cosas inventadas para divertirse. Para él los
 datos comprobados no significaban nada. Creía
-en el fondo que se escribía para demostrar ingenio[**,]
+en el fondo que se escribía para demostrar ingenio,
 no para exponer ideas con claridad, y que
 la investigación de un sabio se echaba abajo con
 una frase graciosa.
@@ -8093,7 +8093,7 @@ al librero.
 --Sí; es lo único que se vende.
 
 El fenómeno parecía paradójico y, sin embargo,
-era natural. Andrés habia[**había] oído a su tío Iturrioz
+era natural. Andrés había oído a su tío Iturrioz
 que en Inglaterra, en donde las costumbres eran
 interiormente de una libertad extraordinaria, libros,
 aun los menos sospechosos de libertinaje,
@@ -8113,7 +8113,7 @@ la vida sexual por la libertad de costumbres,
 se achicaba la pornografía; en Alcolea, al achicarse
 la vida sexual, se agrandaba la pornografía.
 
---Que[**Qué ?] paradoja esta de la sexualidad--pensaba
+--Qué paradoja esta de la sexualidad--pensaba
 Andrés al ir a su casa--. En los países donde
 la vida es intensamente sexual no existen motivos
 de lubricidad; en cambio en aquellos pueblos
@@ -8160,7 +8160,7 @@ perfección.
 
 Andrés no era de estos hombres que consideran
 el leer como un sucedáneo de vivir;
-él[** guessed] leía porque no podía vivir. Para alternar
+él leía porque no podía vivir. Para alternar
 con esta gente del casino, estúpida y mal intencionada,
 prefería pasar el tiempo en su cuarto,
 en aquel mausoleo blanqueado y silencioso.
@@ -8195,11 +8195,11 @@ la base de las matemáticas y pensó que no
 tenía fuerza en el cerebro para dominar esto. Lo
 único que aprendió fué el plano estelar. Orientarse
 en ese infinito de puntos luminosos, en
-donde brillan como dioses Arturus y Vega,[** ;] Altair[**,|P3: y ?]
-Aldebarán[**,] era para él una voluptuosidad algo
+donde brillan como dioses Arturus y Vega, Altair y
+Aldebarán era para él una voluptuosidad algo
 triste; recorrer con el pensamiento esos cráteres
 de la Luna y el mar de la Serenidad; leer esas
-hipotesis[** hipótesis?] acerca de la Vía Láctea y de su movimiento
+hipótesis acerca de la Vía Láctea y de su movimiento
 alrededor de ese supuesto sol central que
 se llama Alción y que está en el grupo de las
 Pléyades, le daba el vértigo.
@@ -8263,7 +8263,7 @@ laminitas del <i>Blanco y Negro</i> y luego las iluminaba,
 y tenía unas ideas ridículas y falsas de
 todo.
 
-De no casarse[** , ?] Andrés podía transigir e ir con
+De no casarse, Andrés podía transigir e ir con
 los perdidos del pueblo a casa de la Fulana o de
 la Zutana, a estas dos calles en donde las mujeres
 de vida airada vivían como en los antiguos
@@ -8325,7 +8325,7 @@ hasta un olivar que él llamaba el trágico
 por su aspecto. Aquellos olivos viejos, centenarios,
 retorcidos, parecían enfermos atacados por
 el tétanos; entre ellos se levantaba una casa
-aíslada[** aislada?] y baja con bardales de cambroneras, y en
+aislada y baja con bardales de cambroneras, y en
 el vértice de la colina había un molino de viento
 tan extraordinario, tan absurdo, con su cuerpo
 rechoncho y sus brazos chirriantes, que a Andrés
@@ -8605,7 +8605,7 @@ socorro; allí una mano poderosa la sujetó por el
 cuello, produciéndole una contusión y un principio
 de asfixia que se evidenciaba en las manchas
 petequiales de los pulmones y del cerebro, y
-después, lanzada a la calle, había sufrido la conmoción[**missing -]
+después, lanzada a la calle, había sufrido la conmoción
 cerebral y la fractura del cráneo, que le
 produjo la muerte. La misma mujer, en la agonía,
 había repetido el nombre del marido indicando
@@ -8618,7 +8618,7 @@ mano débil y convulsa; que los cardenales del
 cuello procedían de contusiones anteriores al día
 de la muerte, y que, respecto a las manchas de
 sangre en los pulmones y en el cerebro, no eran
-producidas por un principio de asfixia, síno[**sino] por
+producidas por un principio de asfixia, sino
 el alcoholismo inveterado de la interfecta. Con
 estos datos, Hurtado aseguraba que la mujer, en
 un estado alcohólico, evidenciado por el aguardiente
@@ -8669,7 +8669,7 @@ la probidad de Andrés y del juez. El periódico
 de la capital que defendía a los Mochuelos,
 escribió un artículo con el titulo «¿Crimen o
 suicidio?», en el que suponía que la mujer del tío
-Garrota se había suicidado; en cambio, otro periodico[** periódico?]
+Garrota se había suicidado; en cambio, otro periódico
 de la capital, defensor de los Ratones, aseguró
 que se trataba de un crimen y que las influencias
 políticas habían salvado al prendero.
@@ -8713,7 +8713,7 @@ cuantas verdades un poco explosivas.
 
 Por la tarde, Andrés preparó su equipaje y
 luego salió a pasear. Hacía un día tempestuoso
-con vagos relámpngos[**CP relámpagos], que brillaban entre dos
+con vagos relámpagos, que brillaban entre dos
 nubes. Al anochecer comenzó a llover y Andrés
 volvió a su casa.
 
@@ -8764,7 +8764,7 @@ fingida.
 Andrés--es que está usted casada con un hombre
 que es un idiota, un imbécil petulante, que
 le hace sufrir a usted, y a quien yo como usted
-le engañaría con cualquíera[**cualquiera].
+le engañaría con cualquiera.
 
 --¡Jesús! ¡Dios mío! ¡Qué cosas me está usted
 diciendo!
@@ -8927,7 +8927,7 @@ a casa y por la noche salía en busca de noticias.
 
 Los periódicos no decían más que necedades
 y bravuconadas; los yanquis no estaban preparados
-para la guerre[** guerra?]; no tenían ni uniformes para
+para la guerra; no tenían ni uniformes para
 sus soldados. En el país de las máquinas de coser
 el hacer unos cuantos uniformes era un conflicto
 enorme, según se decía en Madrid.
@@ -9042,7 +9042,7 @@ dan cuenta de este motivo.
 será un conjunto de gente con conciencia? ¿En
 Inglaterra, en Francia, en Alemania? En todas
 partes, el hombre, en su estado natural, es un canalla,
-idiota y egoista[**egoísta]. Si ahí en Alcolea es una
+idiota y egoísta. Si ahí en Alcolea es una
 buena persona, hay que decir que los alcoleanos
 son gente superior.
 
@@ -9057,7 +9057,7 @@ ese día el pueblo marchará hacia adelante.
 --Claro; pero para ser egoísta hay que saber;
 para protestar hay que discurrir. Yo creo que la
 civilización le debe más al egoísmo que a todas
-las religiones y utopías filantrópicas. El egoismo[**egoísmo]
+las religiones y utopías filantrópicas. El egoísmo
 ha hecho el sendero, el camino, la calle, el ferrocarril,
 el barco, todo.
 
@@ -9221,7 +9221,7 @@ concluir la carrera.
 a la novia?
 
 --En parte, sí. ¡Aunque para lo que me sirve
-el ser médico[** missing !].
+el ser médico!.
 
 --¿No encuentras trabajo?
 
@@ -9365,7 +9365,7 @@ rico, a vivir a su casa y va a ampliar la clínica.
 Yo creo que lo que anda buscando es que Nebot
 se entienda con su mujer.
 
---¿De verás[** veras?]?
+--¿De veras?
 
 --Sí. Ha mandado poner el cuarto de Nebot
 en el mejor sitio de la casa, cerca de la alcoba
@@ -9388,7 +9388,7 @@ del café y cada cual se fué a su casa.
 A los pocos días Andrés encontró a Julio
 Aracil que entraba en un coche.
 
---¿Quieres dar una vuelta conmigo[**?]--le dijo
+--¿Quieres dar una vuelta conmigo?--le dijo
 Julio--. Voy al final del barrio de Salamanca, a
 hacer una visita.
 
@@ -9539,7 +9539,7 @@ dos o tres patentes de cosas pensadas por mi,
 que creo que están bien; en Bélgica me las iban
 a comprar; pero yo he querido hacer primero
 una prueba en España, y me voy desalentado,
-descorazonado; aqui[**P2: aquí? (See next one)] no se puede hacer nada.
+descorazonado; aquí no se puede hacer nada.
 
 --Eso no me choca--dijo Andrés--; aquí no
 hay ambiente para lo que tú haces.
@@ -9829,7 +9829,7 @@ MÉDICO DE HIGIENE
 
 A los pocos días de recibir el nombramiento
 de médico de higiene y de comenzar a desempeñar
-e![**typo el] cargo, Andrés comprendió que no
+el cargo, Andrés comprendió que no
 era para él.
 
 Su instinto antisocial se iba aumentando, se
@@ -9879,7 +9879,7 @@ escoltadas por algún guardia, riendo, las
 increpaba.
 
 --No tenéis odio siquiera. Tened odio; al menos
-víviréis[**viviréis] más tranquilas.
+víviréis más tranquilas.
 
 Las mujeres le miraban con asombro. Odio,
 ¿por qué?, se preguntaría alguna de ellas. Como
@@ -10103,14 +10103,14 @@ VII
 DE LOS FOCOS DE LA PESTE
 
 
-<sc>Andrés</sc> solía sentarse cerca del mostrador[** missing ;]
+<sc>Andrés</sc> solía sentarse cerca del mostrador.
 Lulú le veía sombrío y meditabundo.
 
 --Vamos, hombre, ¿qué le pasa a usted?--le
 dijo Lulú un día que le vió más hosco que de
 ordinario.
 
---Verdaderamente[** gesperrt intended?]--murmuró Andrés--el
+--Verdaderamente--murmuró Andrés--el
 mundo es una cosa divertida: hospitales, salas
 de operaciones, cárceles, casas de prostitución;
 todo lo peligroso tiene su antídoto; al lado del
@@ -10118,7 +10118,7 @@ amor la casa de prostitución; al lado de la libertad
 la cárcel. Cada instinto subversivo, y lo natural
 es siempre subversivo, lleva al lado su
 gendarme. No hay fuente limpia sin que los hombres
-metan allí las patas y la ensucíen[** ensucien?]. Está en
+metan allí las patas y la ensucien. Está en
 su naturaleza.
 
 --¿Qué quiere usted decir con eso? ¿Qué le
@@ -10151,7 +10151,7 @@ amas.
 --Muy mal; duermen en cualquier rincón
 amontonadas, no comen apenas; les dan unas
 palizas brutales; y cuando envejecen y ven que
-ya no tienen éxito, las cogen y las llevan a otro[** unclear]
+ya no tienen éxito, las cogen y las llevan a otro
 pueblo sigilosamente.
 
 --¡Qué vida! ¡Qué horror!--murmuró Lulú.
@@ -10228,7 +10228,7 @@ con nuestra pobreza, nuestra ignorancia
 y nuestra vanidad, vienen todos los males.
 
 --¿Y esas mujeres son engañadas de verdad
-por sus novios?[** missing -- ?]preguntó Lulú, a quien preocupaba
+por sus novios?--preguntó Lulú, a quien preocupaba
 más el aspecto individual que el social.
 
 --No; en general no. Son mujeres que no
@@ -10282,7 +10282,7 @@ LA MUERTE DE VILLASÚS
 
 
 <sc>Con</sc> pretexto de estar enfermo, Andrés abandonó
-el empleo, y por influencia[**P2: typo fixed for ínfluencia?] de Julio
+el empleo, y por influencia de Julio
 Aracil le hicieron médico de La Esperanza, Sociedad
 para la asistencia facultativa de gente
 pobre.
@@ -10317,7 +10317,7 @@ sube, los medios que tiene de burlar las leyes
 comunes se hacen mayores. Andrés pudo evidenciar
 que la fuerza de la ley disminuye proporcionalmente
 al aumento de medios del triunfador.
-La ley es simpre [**CP typo for siempre] más dura con el débil.
+La ley es siempre más dura con el débil.
 Automáticamente pesa sobre el miserable. Es
 lógico que el miserable por instinto odie la ley.
 
@@ -10344,7 +10344,7 @@ Toda aquella sucia morralla de chulos eran los
 que vociferaban en los cafés antes de la guerra,
 los que soltaron baladronadas y bravatas para
 luego quedarse en sus casas tan tranquilos. La
-moral del espectador de corrida de toros se habia[**P2: había?]
+moral del espectador de corrida de toros se había
 revelado en ellos; la moral del cobarde que exige
 valor en otro, en el soldado en el campo de batalla,
 en el histrión, o en el torero en el circo. A
@@ -10421,7 +10421,7 @@ a una criatura humana.
 
 Andrés se fué de la casa pensativo.
 
---¡Pobre,[**P2 typo?] hombre!--se dijo--. ¡Qué desdichado!
+--¡Pobre, hombre!--se dijo--. ¡Qué desdichado!
 ¡Este pobre diablo, empeñado en desafiar a la
 riqueza, es extraordinario! ¡Qué caso de heroísmo
 más cómico! Y quizá si pudiera discurrir
@@ -10437,7 +10437,7 @@ muerto.
 Los inquilinos de los cuartuchos le contaron
 que el poeta loco, como le llamaban en la casa,
 había pasado tres días con tres noches vociferando,
-desafíando[** desafiando?] a sus enemigos literarios,
+desafiando a sus enemigos literarios,
 riendo a carcajadas.
 
 Andrés entró a ver al muerto. Estaba tendido
@@ -10458,7 +10458,7 @@ caso de catalepsia.
 
 --No digan ustedes necedades--dijo Andrés.
 
-Todos aquellos desharrapados que debian[** debían?] ser
+Todos aquellos desharrapados que debían ser
 bohemios, amigos de Villasús, habían hecho horrores
 con el cadáver: le habían quemado los
 dedos con fósforos para ver si tenía sensibilidad.
@@ -10477,7 +10477,7 @@ bastón. Venía borracho completamente. Se acercó
 al cadáver de Villasús, y con una voz melodramática
 gritó:
 
---¡Adiós, Rafael! ¡Tú eras un poeta! ¡Tu[**Tú] eras
+--¡Adiós, Rafael! ¡Tú eras un poeta! ¡Tú eras
 un genio! ¡Así moriré yo también! ¡En la miseria!,
 porque soy un bohemio y no venderé nunca mi
 conciencia. No.
@@ -10514,7 +10514,7 @@ en la guardilla, salió de la casa.
 
 IX
 
-AMOR, TEORIA[** TEORÍA?] Y PRÁCTICA
+AMOR, TEORÍA Y PRÁCTICA
 
 
 <sc>Andrés</sc> divagaba, lo que era su gran placer,
@@ -10522,7 +10522,7 @@ en la tienda de Lulú. Ella le oía sonriente,
 haciendo de cuando en cuando alguna objeción.
 Le llamaba siempre en burla don Andrés.
 
---Tengo una pequeña teoría acerca del amor[**P2: missing --]le
+--Tengo una pequeña teoría acerca del amor--le
 dijo un día él.
 
 --Acerca del amor debía usted tener una teoría
@@ -10555,7 +10555,7 @@ conocer a la gente.
 
 --¿Sí?
 
---Si[**Sí?]; se ve un hombre gordo, moreno y chato,
+--Sí; se ve un hombre gordo, moreno y chato,
 al lado de una mujer gorda, morena y chata,
 pues es un hombre petulante y seguro de sí
 mismo; pero el hombre gordo, moreno y chato
@@ -10627,7 +10627,7 @@ quiere al hombre le pasa lo mismo, lo deforma.
 A través de una nube brillante y falsa, se ven
 los amantes el uno al otro, y en la obscuridad
 ríe el antiguo diablo, que no es más que la
-especíe[**especie].
+especie.
 
 --¡La especie! ¿Y qué tiene que ver ahí la especie?
 
@@ -10670,7 +10670,7 @@ Estas conversaciones les entretenían.
 Una mañana, Andrés se encontró en la tienda
 con un militar joven hablando con Lulú. Durante
 varios días lo siguió viendo. No quiso preguntar
-quién era, y sólo cuando lo dejo[** dejó?] de ver se
+quién era, y sólo cuando lo dejó de ver se
 enteró de que era primo de Lulú.
 
 En este tiempo Andrés empezó a creer que
@@ -10733,7 +10733,7 @@ Lulú siguió limpiando los estantes con el plumero.
 
 --Sí; porque me dice tonterías.
 
---Deme[**Déme?] usted la mano.
+--Deme usted la mano.
 
 --¿La mano?
 
@@ -10752,9 +10752,9 @@ Lulú siguió limpiando los estantes con el plumero.
 --¿Usted cree que no la quiero a usted, Lulú?
 
 --Sí..., un poco..., ve usted que no soy una
-mala muchacha..., pero nada más[** missing .]
+mala muchacha..., pero nada más.
 
-[** missing --]¿Y si hubiera algo más? Si yo la quisiera a
+--¿Y si hubiera algo más? Si yo la quisiera a
 usted con cariño, con amor, ¿qué me contestaría
 usted?
 
@@ -10831,23 +10831,23 @@ Ahora, que él hiciera después lo que quisiera.
 
 --Pero hay que darle una razón.
 
---¡Qué más razón! El[**Él] es casi un enfermo, ella
+--¡Qué más razón! Él es casi un enfermo, ella
 también, él vacila... basta; que no se case.
 
 --No, eso no basta.
 
---Para mí[**,] sí; yo pienso en el hijo; yo no creo,
+--Para mí sí; yo pienso en el hijo; yo no creo,
 como Calderón, que el delito mayor del hombre
 sea el haber nacido. Esto me parece una tontería
 poética. El delito mayor del hombre es hacer nacer.
 
 --¿Siempre? ¿Sin excepción?
 
---No. Para mí el criterio es éste[** Image has a reverse ;. But must be :] Se tienen hijos
+--No. Para mí el criterio es éste: Se tienen hijos
 sanos a quienes se les da un hogar, protección,
 educación, cuidados... podemos otorgar la
 absolución a los padres; se tienen hijos enfermos,
-tuberculosos, sifilítícos[**sifilíticos], neurasténicos, consideremos
+tuberculosos, sifilíticos, neurasténicos, consideremos
 criminales a los padres.
 
 --¿Pero eso se puede saber con anterioridad?
@@ -10862,7 +10862,7 @@ bastar al hombre para no tenerla. El perpetuar
 el dolor en el mundo me parece un crimen.
 
 --¿Pero puede saber nadie cómo será su descendencia?
-Ahí tengo yo un amigo eufermo [**CP typo for enfermo], estropeado,
+Ahí tengo yo un amigo enfermo, estropeado,
 que ha tenido hace poco una niña
 sana, fortísima.
 
@@ -10893,7 +10893,7 @@ y repulsiva prole. La mujer, sin dientes,
 con el vientre constantemente abultado, tenía
 una indiferencia de animal para los embarazos,
 los partos y las muertes de los niños. ¿Se ha
-muerto uno? Pues se hace otro--decía cínicamenmente[** cínicamente?].
+muerto uno? Pues se hace otro--decía cínicamente.
 No, no debe ser lícito engendrar seres
 que vivan en el dolor.
 
@@ -11111,7 +11111,7 @@ Andrés se encontraba tan bien, que sentía temores.
 llegado a fuerza de ensayos a una existencia, no
 sólo soportable, sino agradable y sensata?
 
-Su pesimlsmo[**pesimismo] le hacía pensar que la calma no
+Su pesimismo le hacía pensar que la calma no
 iba a ser duradera.
 
 --Algo va a venir el mejor día--pensaba--que
@@ -11233,7 +11233,7 @@ que la sensación de conjunto de su cuerpo, la
 dulce. Su bienestar físico le preparaba para
 ese estado de perfección y de equilibrio intelectual,
 que los epicúreos y los estoicos griegos llamaron
-<i>ataraxia[** Unclear, alaraxia?]</i>, el paraíso del que no cree.
+<i>ataraxia</i>, el paraíso del que no cree.
 
 Aquel estado de serenidad le daba una gran
 lucidez y mucho método en sus trabajos. Los estudios
@@ -11243,7 +11243,7 @@ que siguiera por aquel camino. No quería ya que
 tradujera, sino que hiciera trabajos originales
 para todos los números.
 
---[** unnideed --]Andrés y Lulú no tenían nunca la menor
+Andrés y Lulú no tenían nunca la menor
 riña; se entendían muy bien. Sólo en cuestiones
 de higiene y alimentación, ella no le hacía mucho
 caso a su marido.
@@ -11371,7 +11371,7 @@ tenía por él un cariño celoso e irritado; ya no
 era aquella simpatía afectuosa y burlona tan
 dulce; ahora era un amor animal. La naturaleza
 recobraba sus derechos. Andrés, de ser un hombre
-lleno de talento y un poeo[** poco?] <i>ideático</i>, había pasado
+lleno de talento y un poco <i>ideático</i>, había pasado
 a ser su hombre. Ya en esto, Andrés veía
 el principio de la tragedia. Ella quería que le
 acompañara, le diera el brazo, se sentía celosa,
@@ -11385,7 +11385,7 @@ las mujeres embarazadas, y no les daba importancia;
 pero él temblaba.
 
 La madre de Lulú comenzó a frecuentar la
-casa, y como tenia[**tenía] mala voluntad para Andrés,
+casa, y como tenía mala voluntad para Andrés,
 envenenaba todas las cuestiones.
 
 Uno de los médicos que colaboraba en la revista,
@@ -11576,11 +11576,11 @@ campo, sin asistencia ninguna, se hubiera salvado.
 La naturaleza tiene recursos que nosotros no
 conocemos.
 
---Yo no djgo[**CP typo for digo] que no--contestó el médico que
+--Yo no digo que no--contestó el médico que
 había asistido a Lulú--; es muy posible.
 
---¡Es lástima!--exclamó Iturrioz--[** -- guessed]. ¡Este muchacho
-ahora,[** comma unneeded?] marchaba tan bien!
+--¡Es lástima!--exclamó Iturrioz--¡Este muchacho
+ahora, marchaba tan bien!
 
 Andrés, al oir lo que decían, sintió que se le
 traspasaba el alma. Rápidamente, volvió a su
@@ -11588,7 +11588,7 @@ cuarto y se encerró en él.
 
 <tb>
 
-Por la mañaña[** mañana?], a la hora del entierro, los que
+Por la mañana, a la hora del entierro, los que
 estaban en la casa, comenzaron a preguntarse
 qué hacía Andrés.
 
@@ -11611,7 +11611,7 @@ un frasco de aconitina cristalizada de Duquesnel.
 
 Andrés se había envenenado. Sin duda, la rapidez
 de la intoxicación no le produjo convulsiones
-ní[**ni] vómitos.
+ni vómitos.
 
 La muerte había sobrevenido por parálisis inmediata
 del corazón.
@@ -11751,9 +11751,10 @@ I.--Comentario a lo pasado      271
 
 II.--Los amigos      279
 
-III.--Fermín[** accent unclear] Ibarra      288
+III.--Fermín Ibarra      288
 
 IV.--Encuentro con Lulú      291
+
 V.--Médico de higiene       297
 
 VI.--La tienda de confecciones      301
