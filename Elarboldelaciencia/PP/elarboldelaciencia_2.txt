@@ -2872,7 +2872,7 @@ ella de una manera achulada.
 
 --Tiene usted mala sangre, negra--le dijo Casares.
 
--Sí, que usted la debe tener buena, blanco--replicó
+--Sí, que usted la debe tener buena, blanco--replicó
 ella.
 
 --¿Por qué no ha querido usted bailar con
@@ -4190,7 +4190,7 @@ Aquella mañana en que se presentó Andrés
 en casa de Iturrioz, su tío se estaba bañando y
 el criado le llevó a la azotea.
 
-Se veía desde  allí el Guadarrama entre dos
+Se veía desde allí el Guadarrama entre dos
 casas altas; hacia el Oeste, el tejado del cuartel
 de la Montaña ocultaba los cerros de la Casa de
 Campo, y a un lado del cuartel se destacaba la
@@ -4533,7 +4533,7 @@ Andrés.
 --No importa.
 
 --Bueno, vete a casa de los tíos--le advirtió
-Margarita,
+Margarita.
 
 --No, ¿para qué?--contestó él--. Yo veo la
 casa del pueblo, y, si me parece bien, os mando
@@ -5542,7 +5542,7 @@ llantas de trozos de acero como las que había
 ideado Fermín, pensó que éste debía tener verdadera
 inteligencia de inventor.
 
-<tb>
+       *       *       *       *       *
 
 Andrés, por las tardes, visitaba a su tío Iturrioz.
 Se lo encontraba casi siempre en su azotea
@@ -8940,7 +8940,7 @@ París; pero era bastante para que los
 españoles de buen sentido pudieran sentir toda
 la vacuidad de sus grandes hombres.
 
-Andrés  siguió los preparativos de la guerra
+Andrés siguió los preparativos de la guerra
 con una emoción intensa.
 
 Los periódicos traían cálculos completamente
@@ -10218,7 +10218,7 @@ quería volver a su casa.
 
 --¡Qué gente!
 
---Todo eso es lo que que queda de moro y
+--Todo eso es lo que queda de moro y
 de judío en el español; el considerar a la mujer
 como una presa, la tendencia al engaño, a la
 mentira... Es la consecuencia de la impostura semítica;
@@ -11586,7 +11586,7 @@ Andrés, al oir lo que decían, sintió que se le
 traspasaba el alma. Rápidamente, volvió a su
 cuarto y se encerró en él.
 
-<tb>
+       *       *       *       *       *
 
 Por la mañana, a la hora del entierro, los que
 estaban en la casa, comenzaron a preguntarse

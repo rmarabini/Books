@@ -2084,11 +2084,33 @@ $::proofers{'347'}[3] = 'catalino';
 $::proofers{'347'}[4] = 'rmarabini';
 $::proofers{'347'}[5] = 'ellinora';
 
-$::operationshash{'Found last page separator'}='2019-05-15 18:47';
+$::operationshash{'Check spelling wordfrequency'}='2019-05-19 12:35';
+$::operationshash{'Stealth Scannos'}='2019-05-19 12:39';
+$::operationshash{'Check words with initial caps'}='2019-05-19 12:38';
+$::operationshash{'Check ALL CAPS'}='2019-05-19 12:38';
+$::operationshash{'Check words with unicode chars > FF'}='2019-05-19 12:35';
+$::operationshash{'Found no more orphaned /* */'}='2019-05-19 12:31';
+$::operationshash{'Found no more orphaned []'}='2019-05-19 12:30';
+$::operationshash{'Word Frequency'}='2019-05-19 12:37';
 $::operationshash{'Open /home/roberto/PGDP/Book/Elarboldelaciencia/PP/elarboldelaciencia_1.txt'}='2019-05-19 10:20';
+$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2019-05-19 12:31';
+$::operationshash{'Check MiXeD CasE'}='2019-05-19 12:37';
+$::operationshash{'Check words with possible ligatures'}='2019-05-19 12:35';
+$::operationshash{'Check emdashes'}='2019-05-19 12:35';
+$::operationshash{'Check , Upper'}='2019-05-19 12:38';
+$::operationshash{'Check alpha/num'}='2019-05-19 12:35';
 $::operationshash{'Begin Page Separators Fixup'}='2019-05-15 18:43';
+$::operationshash{'Found no more orphaned {}'}='2019-05-19 12:30';
+$::operationshash{'Found no more orphaned <>'}='2019-05-19 12:30';
+$::operationshash{'Check hyphens'}='2019-05-19 12:35';
+$::operationshash{'Found no more orphaned /# #/'}='2019-05-19 12:31';
+$::operationshash{'Found no more orphaned /$ $/'}='2019-05-19 12:31';
+$::operationshash{'Check . lower'}='2019-05-19 12:38';
+$::operationshash{'Found no more orphaned ()'}='2019-05-19 12:30';
+$::operationshash{'Found last page separator'}='2019-05-15 18:47';
+$::operationshash{'Check Accents'}='2019-05-19 12:37';
 
-$::bookmarks[0] = '6096.41';
+$::bookmarks[0] = '1.0';
 
 $::pngspath = '/home/roberto/PGDP/Book/Elarboldelaciencia/PP/pngs/';
 
